@@ -1,4 +1,6 @@
 .help
 tm
 dictionary
-*.tmx
+skype-*.tmx
+*~
+*.bak

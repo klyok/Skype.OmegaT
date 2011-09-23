@@ -60,6 +60,7 @@ groupvideocalling
 gswtip_headphones
 gswtip_headset
 head
+help.faq.abuse
 help.faq.alerts
 help.faq.directx
 help.faq.video
@@ -85,6 +86,7 @@ import
 IP
 Joltid
 Kim
+ks
 lang
 LANG
 Language-Team
@@ -184,7 +186,9 @@ Translate
 type
 u
 ui
+UIC
 UNIX
+uPnP
 Urg
 USB
 UTF
@@ -214,7 +218,3 @@ ZoneAlarm
 гадз
 пераслаўся
 ПіА
-help.faq.abuse
-uPnP
-UIC
-ks
