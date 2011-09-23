@@ -1,0 +1,147 @@
+account	рахунак -нку
+Add to Contacts	Дадаць да кантактаў
+adware	рэклямны дадатак
+alerts	папярэджаньні
+alert	папярэджаньне
+another	нейкая (праґрама)
+antivirus	супрацьвірусны
+apps	дадаткі
+authorisation	упаўнаважаньне
+authorized	зацьверджаны
+authorized	зацьвердзілі
+authorize	зацьвярджаць
+authorize	пацьвярджаць
+auth	апазнавацца
+Automatically adjust microphone settings	Настаўляць мікрафон самарушна
+Automatically adjust speaker settings	Настаўляць галасьнікі самарушна
+auto-recharge	самарушна папаўняць рахунак
+auto	самарушна
+avatar	увасабленьне
+Away	Адсутнічаю
+Away	Ня тут
+banned	выгнаў
+blocked	замкнёны
+blocked	замкнулі
+block	замыкаць
+broadband	шырокапалосны
+businesses	прадпрыемствы
+cable	дрот
+caller ID	азначальнік нумару
+Call Phones	Тэлефанаваць
+Call Quality Guide	Кіраўніцтва па якасьці сувязі
+call	выклік -у
+category	суполка
+certified	завераны
+chats	гутаркі
+Check settings	Спраўдзіць налады
+click	пстрыкаць
+commercial	гандлёвы
+computer	кампутара
+conference call	выклікаць да нарады
+conference call	нарада
+contact details	зьвесткі для сувязі
+contact request	запыт кантактаваць
+contact	кантакт -у
+cookies	біркі
+customize	настаўляць
+Dialpad	наборнік
+directory	даведнік	
+disconnect	адлучыцца
+Do Not Disturb	Не турбаваць
+drivers	павадыры
+driver	павадыр
+emoticons	пачуцьцезнакі
+employee	працаўнік
+Extend session	Падоўжыць сэанс
+extras	дадаткі
+Facebook Updates	Абнаўленьні Facebook
+features	магчымасьці
+find	шукаць
+firewalls	сетказаслоны
+forwarded	пераслалі
+frame	кадар
+full screen	увесь экран
+full-screen	увесь экран
+group video calling	супольная сувязь па відэа
+guidelines	правілы
+hold	утрымваць
+host	гаспадар (у гутарцы)
+hotkeys	гарачыя клявішы
+hotspot	пункт доступу
+IM	гутарка
+instant messages	гутаркі
+internet	сеціва
+Invisible	Хаваюся
+keyboard	клявішны
+keyboard	клявішня
+laptop	асьветак
+leave	выходзіць
+maximize	найбольшыць
+members	чальцы
+microphone	мікрафон -а
+minimize	найменшыць
+mood message	апісаньне настрою
+MoodMessage	Апісаньне настрою
+navigation	рух
+noise	пошум
+Not Available	Мяне няма
+Not Available	Не дагрукацца
+Not Available	Сышоў
+offline	ня ў сетцы
+Online Number	сеціўны нумар
+online shop	сеціва-крама
+online	у сетцы
+options	можнасьці
+partner	супольнік
+password	гасло
+performance	выніковасьць
+phone	тэлефон -у
+picture	агульнадаступны
+plain	звычайны
+pop-up	вынырац
+power saving mode	энэрґаашчадны стан
+profile	профіль -ю
+proxies	пасродкі
+public profile	агульнадаступны профіль
+public	агульнадаступны
+public	адкрытая (гутарка)
+rates	кошты
+reactivate	узнаўляць
+reject	адхіліць
+renderer	апрацоўнік
+renew	падаўжаць
+resume	аднавіць (выклік)
+resuming	аднаўляць
+ringtone	гук выкліку
+router	маршрутавальнік
+screen	экран -у
+session	сэанс
+session	сэанс -у
+Show Hidden Conversations	Паказаць схаваныя размовы
+SkypeMe!™	Пагамонім!!
+Skype Wi-Fi Access	доступ да Wi-Fi праз Skype
+slider	лятунок
+smiley	усьмешка
+snapshots	здымкі
+speakers	галасьнікі
+spyware	шпіёнскі дадатак
+switched	умыкнулі
+switch	улучальнік
+taskbar	паліца задач
+Test now	Выпрабаваць
+tip	падказка
+toolbars	стужкі прыладаў
+Transfer Call	Перадаць выклік
+transferred	перадалі
+transferred	пераслалі
+tray	латок
+turn off	вылучаць
+unblock	адамкнуць
+unblock	разблякаваць
+unencrypted	нешыфраванае
+video call	відэавыклік
+video call	выклік па відэа
+voicemail	галасавое паведамленьне
+want	хацець
+wireless	бяздротавы
+wish	жадаць
