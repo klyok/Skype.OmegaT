@@ -1,0 +1,4626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-13 11:59+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: API#1
+msgid "Skype API Authorisation Request"
+msgstr ""
+
+#: API#2
+msgid "Another program wants to use Skype"
+msgstr ""
+
+#: API#3
+msgid "A program \"%1\" is trying to connect to Skype. Do you want to allow it?"
+msgstr ""
+
+#: API#4
+msgctxt "API#4"
+msgid "Public API"
+msgstr ""
+
+#: API#5
+msgid "Allowed programs:"
+msgstr ""
+
+#: API#6
+msgid "Blocked programs:"
+msgstr ""
+
+#: API#7
+msgid "Remove"
+msgstr ""
+
+#: API#8
+msgid "Enabled transports:"
+msgstr ""
+
+#: API#9
+msgid "X11"
+msgstr ""
+
+#: API#10
+msgid "DBUS"
+msgstr ""
+
+#: API#11
+msgid "Session"
+msgstr ""
+
+#: API#12
+msgid "System"
+msgstr ""
+
+#: API#13
+msgid "Default"
+msgstr ""
+
+#: API#14
+msgid "UNIX domain socket"
+msgstr ""
+
+#: API#15
+msgid "TCP network socket"
+msgstr ""
+
+#: API#16
+msgid "Enable networked TCP socket"
+msgstr ""
+
+#: API#17
+msgid "Bus:"
+msgstr ""
+
+#: API#18
+msgid ""
+"Allowing access to Skype API over network is insecure. Do it only<br>in "
+"well-controlled environments and never over the internet.<br>Skype does not "
+"make any security guarantee if you enable networked<br>TCP socket, as the "
+"communication channel is unencrypted clear text."
+msgstr ""
+
+#: About#1
+msgid "Version"
+msgstr ""
+
+# sF_ABOUT_WARNING_1
+#: About#2
+msgid ""
+"Warning: This program is protected by copyright law and international "
+"treaties."
+msgstr ""
+
+# sF_ABOUT_WARNING_2
+#: About#3
+msgid ""
+"Unauthorized reproduction or distribution of this program, or any portions "
+"of it, may result in severe civil and criminal penalties, and will be "
+"prosecuted to the maximum extent possible under the law."
+msgstr ""
+
+# sF_ABOUT_COPYRIGHT_1_2
+#: About#4
+msgid "Patents Pending"
+msgstr ""
+
+# sF_ABOUT_COPYRIGHT_1_3
+#: About#5
+msgid ""
+"The Skype name, associated trade marks and logos and the \"S\" symbol are "
+"trade marks of Skype Limited"
+msgstr ""
+
+# sF_ABOUT_COPYRIGHT_1_1
+#: About#6
+msgid "Copyright 2003-2011 Skype Limited"
+msgstr ""
+
+#: Calls#1
+msgid "Open DTMF Dialpad"
+msgstr ""
+
+#: Calls#2
+msgid "Answer Call"
+msgstr ""
+
+#: Calls#3
+msgid "Reject Call"
+msgstr ""
+
+#: Calls#4
+msgid "Ignore Call"
+msgstr ""
+
+#: Calls#5
+msgctxt "Calls#5"
+msgid "Call with %1"
+msgstr ""
+
+#: Calls#6
+msgid "Join to Conference"
+msgstr ""
+
+#: Calls#7
+msgid "Start Call"
+msgstr ""
+
+#: Calls#8
+msgid "Hold Call"
+msgstr ""
+
+#: Calls#9
+msgid "Resume Call"
+msgstr ""
+
+#: Calls#10
+msgid "Hangup"
+msgstr ""
+
+#: Calls#11
+msgid "Invite to Conference"
+msgstr ""
+
+#: Calls#12
+msgid "Call %1"
+msgstr ""
+
+#: Calls#13
+msgid "Place Call"
+msgstr ""
+
+#: Calls#14
+msgid "Start Conference with Selected Contacts"
+msgstr ""
+
+#: Calls#15
+msgid "Invite Selected Contacts to Conference"
+msgstr ""
+
+#: Calls#16
+msgctxt "Calls#16"
+msgid "Duration: %1"
+msgstr ""
+
+#: Calls#17
+msgid "Start conference call"
+msgstr ""
+
+#: Calls#18
+msgid "Conference call topic (optional):"
+msgstr ""
+
+#: Calls#19
+msgid "Ca&ll"
+msgstr ""
+
+#: Calls#20
+msgctxt "Calls#20"
+msgid "&Cancel"
+msgstr ""
+
+#: Calls#21
+msgctxt "Calls#21"
+msgid "&Add"
+msgstr ""
+
+#: Calls#22
+msgid "&Do not add"
+msgstr ""
+
+#: Calls#23
+msgctxt "Calls#23"
+msgid "Contacts in your list"
+msgstr ""
+
+#: Calls#24
+msgid "Contacts to call"
+msgstr ""
+
+#: Calls#25
+msgid "Type a number to call"
+msgstr ""
+
+#: Calls#26
+msgid "Click this button to resume the call."
+msgstr ""
+
+#: Calls#27
+msgid "Click this button to place the call on hold."
+msgstr ""
+
+#: Calls#28
+msgid "Unmute Microphone"
+msgstr ""
+
+#: Calls#29
+msgid ""
+"Click this button to restore your microphone so the remote party can hear "
+"you again."
+msgstr ""
+
+#: Calls#30
+msgid "Mute Microphone"
+msgstr ""
+
+#: Calls#31
+msgid ""
+"Click this button to mute your microphone so the remote party can no longer "
+"hear you."
+msgstr ""
+
+#: Calls#32
+msgid "Click this button to answer the incoming call."
+msgstr ""
+
+#: Calls#33
+msgid "Finish Call"
+msgstr ""
+
+#: Calls#34
+msgid "Click this button to finish the call and close the call window."
+msgstr ""
+
+#: Calls#35
+msgid "Conference Call - %1 participants"
+msgstr ""
+
+#: Calls#36
+msgid "Call Duration: %1"
+msgstr ""
+
+#: Calls#37
+msgctxt "Calls#37"
+msgid "Connecting..."
+msgstr ""
+
+#: Calls#38
+msgid "Call Cancelled"
+msgstr ""
+
+#: Calls#39
+msgid "User Not Found"
+msgstr ""
+
+#: Calls#40
+msgid "User Not Online"
+msgstr ""
+
+#: Calls#41
+msgid "No Proxies Found"
+msgstr ""
+
+#: Calls#42
+msgid "Session Terminated"
+msgstr ""
+
+#: Calls#43
+msgid "No Common Codec"
+msgstr ""
+
+#: Calls#44
+msgid "Problem with Audio Capture"
+msgstr ""
+
+#: Calls#45
+msgid "Problem with Audio Playback"
+msgstr ""
+
+#: Calls#46
+msgid "Remote Sound Problem"
+msgstr ""
+
+#: Calls#47
+msgid "Recipient Blocked"
+msgstr ""
+
+#: Calls#48
+msgctxt "Calls#48"
+msgid "Call Failed"
+msgstr ""
+
+#: Calls#49
+msgid "Ringing..."
+msgstr ""
+
+#: Calls#50
+msgid "Call in Progress"
+msgstr ""
+
+#: Calls#51
+msgid "Participant on Hold"
+msgstr ""
+
+#: Calls#52
+msgid "Participant Held the Call"
+msgstr ""
+
+#: Calls#53
+msgid "Call Finished"
+msgstr ""
+
+#: Calls#54
+msgctxt "Calls#54"
+msgid "Call Missed"
+msgstr ""
+
+#: Calls#55
+msgid "Call Refused"
+msgstr ""
+
+#: Calls#56
+msgid "Busy"
+msgstr ""
+
+#: Calls#57
+msgid "Call Dropped"
+msgstr ""
+
+#: Calls#58
+msgid "Call Being Transferred"
+msgstr ""
+
+#: Calls#59
+msgid "Call Transferred"
+msgstr ""
+
+#: Calls#60
+msgid "Voicemail Greeting"
+msgstr ""
+
+#: Calls#61
+msgid "Voicemail Recording"
+msgstr ""
+
+#: Calls#62
+msgctxt "Calls#62"
+msgid "Voicemail Sent"
+msgstr ""
+
+#: Calls#63
+msgid "Voicemail Cancelled"
+msgstr ""
+
+#: Calls#64
+msgid "Voicemail Failed"
+msgstr ""
+
+#: Calls#65
+msgid "Unknown Call Status"
+msgstr ""
+
+#: Calls#66
+msgid "Calling rates"
+msgstr ""
+
+#: Calls#67
+msgid "and %1"
+msgstr ""
+
+#: Calls#68
+msgid "You are receiving a conference call from %1 %2"
+msgstr ""
+
+#: Calls#69
+msgid "%1 is calling you"
+msgstr ""
+
+#: Calls#70
+msgid "An unknown contact is calling you"
+msgstr ""
+
+#: Calls#71
+msgid "Speaking"
+msgstr ""
+
+#: Calls#72
+msgctxt "Calls#72"
+msgid "Call on Hold"
+msgstr ""
+
+#: Calls#73
+msgid "Page %1"
+msgstr ""
+
+#: Calls#74
+msgid "Call on Skype"
+msgstr ""
+
+#: Calls#75
+msgid "Call Home Phone: %1"
+msgstr ""
+
+#: Calls#76
+msgid "Call Office Phone: %1"
+msgstr ""
+
+#: Calls#77
+msgid "Call Mobile Phone: %1"
+msgstr ""
+
+#: Calls#78
+msgid "%1 per minute"
+msgstr ""
+
+#: Calls#79
+msgid "Skype Credit Expired"
+msgstr ""
+
+#: Calls#80
+msgid "Insufficient Credit"
+msgstr ""
+
+#: Calls#81
+msgid "Invalid Number"
+msgstr ""
+
+#: Calls#82
+msgid "Contact request not accepted"
+msgstr ""
+
+#: Calls#83
+msgctxt "Calls#83"
+msgid "Call Phones or Send SMS"
+msgstr ""
+
+#: Calls#84
+msgid "Call"
+msgstr ""
+
+#: Calls#85
+msgctxt "Calls#85"
+msgid "Send SMS"
+msgstr ""
+
+#: Calls#86
+msgid "Close DTMF Dialpad"
+msgstr ""
+
+#: Calls#87
+msgid "Skype Call"
+msgstr ""
+
+#: Calls#88
+msgid "Transfer to..."
+msgstr ""
+
+#: Calls#89
+msgid "Video and Screen Sharing"
+msgstr ""
+
+#: Calls#90
+msgid "Start a Call"
+msgstr ""
+
+#: Calls#91
+msgid "If you call %1 your current call will be put on hold."
+msgstr ""
+
+#: Calls#92
+msgid "You can only have one call at a time."
+msgstr ""
+
+#: Chat#1
+msgid "sent file"
+msgstr ""
+
+#: Chat#2
+msgid "sent files"
+msgstr ""
+
+#: Chat#3
+msgctxt "Chat#3"
+msgid "Open Chat"
+msgstr ""
+
+#: Chat#4
+msgid "%1 user(s)"
+msgstr ""
+
+#: Chat#5
+msgid "No recent messages."
+msgstr ""
+
+#: Chat#6
+msgid "%1 and %2 are writing..."
+msgstr ""
+
+#: Chat#7
+msgid "%1 is writing..."
+msgstr ""
+
+#: Chats#1
+msgctxt "Chats#1"
+msgid "Chats"
+msgstr ""
+
+#: Chats#2
+msgctxt "Chats#2"
+msgid "ChatToolbar"
+msgstr ""
+
+#: Chats#3
+msgctxt "Chats#3"
+msgid "Chat window control toolbar"
+msgstr ""
+
+#: Chats#4
+msgid "Start Chat"
+msgstr ""
+
+#: Chats#5
+msgctxt "Chats#5"
+msgid "Open Chat"
+msgstr ""
+
+#: Chats#6
+msgid "Unbookmark Chat"
+msgstr ""
+
+#: Chats#7
+msgid "Bookmark Chat"
+msgstr ""
+
+#: Chats#8
+msgid "Start Chat with Selected Contacts"
+msgstr ""
+
+#: Chats#9
+msgid "Add to Chat"
+msgstr ""
+
+#: Chats#10
+msgctxt "Chats#10"
+msgid "&OK"
+msgstr ""
+
+#: Chats#11
+msgctxt "Chats#11"
+msgid "&Cancel"
+msgstr ""
+
+#: Chats#12
+msgctxt "Chats#12"
+msgid "&Add"
+msgstr ""
+
+#: Chats#13
+msgctxt "Chats#13"
+msgid "&Remove"
+msgstr ""
+
+#: Chats#14
+msgctxt "Chats#14"
+msgid "Choose contacts"
+msgstr ""
+
+#: Chats#15
+msgid "Chat participants"
+msgstr ""
+
+#: Chats#16
+msgid "Adding users failed"
+msgstr ""
+
+#: Chats#17
+msgid "Couldn't add some users to the chat."
+msgstr ""
+
+#: Chats#18
+msgctxt "Chats#18"
+msgid "Add People"
+msgstr ""
+
+#: Chats#19
+msgid "Add people to the chat"
+msgstr ""
+
+#: Chats#20
+msgid "Send File(s)"
+msgstr ""
+
+#: Chats#21
+msgid "Send file(s) to all people in this chat"
+msgstr ""
+
+#: Chats#22
+msgid "Chat History"
+msgstr ""
+
+#: Chats#23
+msgid "Load previous history from the chat"
+msgstr ""
+
+#: Chats#24
+msgid "Leave Chat"
+msgstr ""
+
+#: Chats#25
+msgid "Leave this chat"
+msgstr ""
+
+#: Chats#26
+msgid "Last 24 Hours"
+msgstr ""
+
+#: Chats#27
+msgid "Last 7 Days"
+msgstr ""
+
+#: Chats#28
+msgid "Last 14 Days"
+msgstr ""
+
+#: Chats#29
+msgid "Last 30 Days"
+msgstr ""
+
+#: Chats#30
+msgctxt "Chats#30"
+msgid "Forever"
+msgstr ""
+
+#: Chats#31
+msgid "Emoticons"
+msgstr ""
+
+#: Chats#32
+msgctxt "Chats#32"
+msgid "Find"
+msgstr ""
+
+# Progress / Total
+#: Chats#33
+msgctxt "Chats#33"
+msgid "%1 / %2"
+msgstr ""
+
+#: Chats#34
+msgid ""
+"If you leave this chat, you will no longer receive any new messages from the "
+"chat.  Are you really sure you want to leave the chat?"
+msgstr ""
+
+#: Chats#35
+msgid "Click here to hide members of this chat"
+msgstr ""
+
+#: Chats#36
+msgid "Click here to show members of this chat"
+msgstr ""
+
+#: Chats#37
+msgid "invited %1"
+msgstr ""
+
+#: Chats#38
+msgid "has changed the chat topic to \"%1\""
+msgstr ""
+
+#: Chats#39
+msgid "kicked %1 from the chat."
+msgstr ""
+
+#: Chats#40
+msgid "kicked and banned %1 from the chat."
+msgstr ""
+
+# sF_INFORM_DEFAULT_CAPTION
+#: Chats#41
+msgid "Information"
+msgstr ""
+
+#: Chats#42
+msgid ""
+"Cannot find \"%1\" in chat (you might want to show all previous messages "
+"first)"
+msgstr ""
+
+#: Chats#43
+msgid ""
+"Cannot find more occurences of \"%1\" in chat (you might want to show all "
+"previous messages first)"
+msgstr ""
+
+# sF_MULTICHAT_EDITTOPIC_HINT_2
+#: Chats#44
+msgid "Double-click here to set chat topic."
+msgstr ""
+
+# sF_MULTICHAT_EDITTOPIC_HINT_2
+#: Chats#45
+msgid "Double-click here to set chat topic"
+msgstr ""
+
+#: Chats#46
+msgid "Chat with %1"
+msgstr ""
+
+#: Chats#47
+msgid "%1 has joined the chat"
+msgstr ""
+
+#: Chats#48
+msgid "%1 new members were added to the chat"
+msgstr ""
+
+#: Chats#49
+msgid "%1 has left the chat"
+msgstr ""
+
+#: Chats#50
+msgid "%1 has set the topic to %2"
+msgstr ""
+
+#: Chats#51
+msgctxt "Chats#51"
+msgid "This message is not delivered yet."
+msgstr ""
+
+#: Chats#52
+msgid "Copy Selected Text"
+msgstr ""
+
+#: Chats#53
+msgid "Open Link"
+msgstr ""
+
+#: Chats#54
+msgid "Copy Link Location"
+msgstr ""
+
+#: Chats#55
+msgctxt "Chats#55"
+msgid "Options"
+msgstr ""
+
+#: Chats#56
+msgid "Change chat topic or picture"
+msgstr ""
+
+#: Chats#57
+msgid "Set Topic"
+msgstr ""
+
+#: Chats#58
+msgid "Set Picture"
+msgstr ""
+
+#: Chats#59
+msgctxt "Chats#59"
+msgid "Remove Picture"
+msgstr ""
+
+#: Chats#60
+msgid "Loading Image Error!"
+msgstr ""
+
+#: Chats#61
+msgid ""
+"Failed to convert the selected image to a proper format for Skype!\n"
+"Please select a different image file."
+msgstr ""
+
+#: Chats#62
+msgid "Image Size Error!"
+msgstr ""
+
+#: Chats#63
+msgid ""
+"The image file you have selected is too large!\n"
+"Please use a smaller size image!"
+msgstr ""
+
+#: Chats#64
+msgid "Internal Error!"
+msgstr ""
+
+#: Chats#65
+msgid ""
+"The selected image file could not be set as a chat picture.\n"
+"Please use a different image file!"
+msgstr ""
+
+#: Chats#66
+msgid "Loading Image failure!"
+msgstr ""
+
+#: Chats#67
+msgid ""
+"File could not be loaded.\n"
+" Please try a different a file and also make sure that file has read "
+"permission."
+msgstr ""
+
+#: Chats#68
+msgid "joined the chat"
+msgstr ""
+
+#: Chats#69
+msgid "left the chat (%1)."
+msgstr ""
+
+#: Chats#70
+msgid "has changed the chat guidelines to \"%1\"."
+msgstr ""
+
+#: Chats#71
+msgid "Bookmark"
+msgstr ""
+
+#: Chats#72
+msgid "Bookmark this chat"
+msgstr ""
+
+#: Chats#73
+msgid "Unbookmark"
+msgstr ""
+
+#: Chats#74
+msgid "Remove bookmark from this chat"
+msgstr ""
+
+#: Chats#75
+msgctxt "Chats#75"
+msgid "Images"
+msgstr ""
+
+#: Chats#76
+msgctxt "Chats#76"
+msgid "All Files"
+msgstr ""
+
+#: Chats#77
+msgid "Please select a file."
+msgstr ""
+
+#: Chats#78
+msgid "This message has been removed by you."
+msgstr ""
+
+#: Chats#79
+msgid "This message has been removed."
+msgstr ""
+
+#: Chats#80
+msgid "Select All"
+msgstr ""
+
+#: Chats#81
+msgid "Find Again"
+msgstr ""
+
+#: Chats#82
+msgid "Edit Message"
+msgstr ""
+
+#: Chats#83
+msgid "Remove Message"
+msgstr ""
+
+#: Chats#84
+msgid "Right click here to set/unset the chat picture."
+msgstr ""
+
+#: Chats#85
+msgid "Rename Group"
+msgstr ""
+
+#: Chats#86
+msgid "Delete Group"
+msgstr ""
+
+#: Chats#87
+msgid "This message has been edited by %1 at %2"
+msgstr ""
+
+#: Chats#88
+msgid "This message has been edited at %1"
+msgstr ""
+
+#: Chats#89
+msgid "This message has been removed by %1"
+msgstr ""
+
+#: Chats#90
+msgid "User not found"
+msgstr ""
+
+#: Chats#91
+msgid "Declined to be added"
+msgstr ""
+
+#: Chats#92
+msgid "Unsubscribed"
+msgstr ""
+
+#: Chats#93
+msgid "Unknown reason"
+msgstr ""
+
+#: Chats#94
+msgid "This person is on a device that does not support group chat."
+msgstr ""
+
+#: Chats#95
+msgid "Quote message"
+msgstr ""
+
+#: Chats#96
+msgid "This person is using a version of Skype that doesn't support group chat"
+msgstr ""
+
+#: Chats#97
+msgid "Only people who have accepted contact request can be added"
+msgstr ""
+
+#: Chats#98
+msgid "%1 - Skype™ Chat"
+msgstr ""
+
+#: Chats#99
+msgid "Last 6 Months"
+msgstr ""
+
+#: Chats#100
+msgid "Last Year"
+msgstr ""
+
+#: Chats#101
+msgid "Are you sure you want to call?"
+msgstr ""
+
+#: Chats#102
+msgid ""
+"You are about to make a call to %1 members of this chat. Are you sure you "
+"want to call?"
+msgstr ""
+
+#: Chats#103
+msgid "Are you sure you want to leave this chat?"
+msgstr ""
+
+#: Chats#104
+msgid "has changed the chat picture."
+msgstr ""
+
+#: Confirmation#1
+msgctxt "Confirmation#1"
+msgid "Accept"
+msgstr ""
+
+#: Confirmation#2
+msgctxt "Confirmation#2"
+msgid "Decline"
+msgstr ""
+
+#: Confirmation#3
+msgctxt "Confirmation#3"
+msgid "Close"
+msgstr ""
+
+#: Confirmation#4
+msgid "Yes"
+msgstr ""
+
+#: Confirmation#5
+msgid "No"
+msgstr ""
+
+#: Confirmation#6
+msgid "Remember this selection"
+msgstr ""
+
+#: Confirmation#7
+msgid "Are you sure?"
+msgstr ""
+
+#: Confirmation#8
+msgctxt "Confirmation#8"
+msgid "Cancel"
+msgstr ""
+
+#: Confirmation#9
+msgid "Update"
+msgstr ""
+
+#: Confirmation#10
+msgctxt "Confirmation#10"
+msgid "Clear"
+msgstr ""
+
+#: Confirmation#11
+msgid "Apply"
+msgstr ""
+
+#: Confirmation#12
+msgid "Reset"
+msgstr ""
+
+#: Confirmation#13
+msgctxt "Confirmation#13"
+msgid "OK"
+msgstr ""
+
+#: Confirmation#14
+msgid "Back"
+msgstr ""
+
+#: Confirmation#15
+msgid "Try Again"
+msgstr ""
+
+#: Confirmation#16
+msgid "Do not ask me again"
+msgstr ""
+
+#: Confirmation#17
+msgctxt "Confirmation#17"
+msgid "Change Password"
+msgstr ""
+
+#: Confirmation#18
+msgid "Create"
+msgstr ""
+
+#: Confirmation#19
+msgid "Reload"
+msgstr ""
+
+#: Confirmation#20
+msgid "I agree"
+msgstr ""
+
+#: Confirmation#21
+msgid "I do not agree"
+msgstr ""
+
+#: Confirmation#22
+msgid "Report abuse from this person"
+msgstr ""
+
+#: Confirmation#23
+msgid "You can also report abuse from this user. <a href=\"%1\">Learn more</a>"
+msgstr ""
+
+#: Contact+Authorisation%231
+msgid "%1 people"
+msgstr ""
+
+#: Contact+Authorisation%232
+msgid "Say Hello to %1"
+msgstr ""
+
+#: Contact+Authorisation%233
+msgid "Type a short message to introduce yourself to %1"
+msgstr ""
+
+#: Contact+Authorisation%234
+msgid "Please allow me to see when you are online"
+msgstr ""
+
+#: Contact+Authorisation%235
+msgid " Call %1"
+msgstr ""
+
+#: Contact+Authorisation%236
+msgid " Start a chat with %1"
+msgstr ""
+
+#: Contact+Authorisation%237
+msgid " View the profile of %1"
+msgstr ""
+
+#: Contact+Authorisation%238
+msgid "Please let me see your contact details."
+msgstr ""
+
+#: Contact+Authorisation%239
+msgid "Contact request from %1"
+msgstr ""
+
+#: Contact+Authorisation%2310
+msgid "Add and Accept Contact"
+msgstr ""
+
+#: Contact+Authorisation%2311
+msgid "Accept contact request and add contacts to your contact list"
+msgstr ""
+
+#: Contact+Authorisation%2312
+msgid "Ignore Contact Request"
+msgstr ""
+
+#: Contact+Authorisation%2313
+msgid "Ignore the contact request"
+msgstr ""
+
+#: Contact+Authorisation%2314
+msgid "Send Contact Request"
+msgstr ""
+
+#: Contact+Authorisation%2315
+msgid "Accept Contact Request"
+msgstr ""
+
+#: Contact+Authorisation%2316
+msgid "Hide Picture"
+msgstr ""
+
+#: Contact+Authorisation%2317
+msgid "Show Picture"
+msgstr ""
+
+#: Contact+Information%231
+msgid "This is the user's current mood message. "
+msgstr ""
+
+#: Contact+Information%232
+msgid "Call Contact"
+msgstr ""
+
+#: Contact+Information%233
+msgid "Click this button to place a call to this contact."
+msgstr ""
+
+#: Contact+Information%234
+msgid "Call Button"
+msgstr ""
+
+#: Contact+Information%235
+msgid "Chat to Contact"
+msgstr ""
+
+#: Contact+Information%236
+msgid "Click this button to start a chat with this contact."
+msgstr ""
+
+#: Contact+Information%237
+msgid "Chat Button"
+msgstr ""
+
+#: Contact+Information%238
+msgid "View Profile"
+msgstr ""
+
+#: Contact+Information%239
+msgid "Click this button to view this contact's profile."
+msgstr ""
+
+#: Contact+Information%2310
+msgid "Profile Button"
+msgstr ""
+
+#: Contact+Information%2311
+msgid "This contact is configured for video conferencing."
+msgstr ""
+
+#: Contact+Information%2312
+msgid "Online"
+msgstr ""
+
+#: Contact+Information%2313
+msgid "Away"
+msgstr ""
+
+#: Contact+Information%2314
+msgid "Not Available"
+msgstr ""
+
+#: Contact+Information%2315
+msgid "Do Not Disturb"
+msgstr ""
+
+#: Contact+Information%2316
+msgid "Invisible"
+msgstr ""
+
+#: Contact+Information%2317
+msgid "Offline"
+msgstr ""
+
+#: Contact+Information%2318
+msgid "Edit Profile"
+msgstr ""
+
+#: Contact+Information%2319
+msgctxt "Contact Information#19"
+msgid "Undisclosed Number"
+msgstr ""
+
+#: Contact+Information%2320
+msgid "Last Seen: %1"
+msgstr ""
+
+#: Contact+Information%2321
+msgid "Edit Contact"
+msgstr ""
+
+#: Contact+Information%2322
+msgid "Contact Groups"
+msgstr ""
+
+#: Contact+Information%2323
+msgid "Add to Contact List"
+msgstr ""
+
+#: Contact+Information%2324
+msgid "Block Contact"
+msgstr ""
+
+#: Contact+Information%2325
+msgid "Are you sure you wish to delete %1 from your contact list?"
+msgstr ""
+
+#: Contact+Information%2326
+msgid "Are you sure you wish to block %1?"
+msgstr ""
+
+#: Contact+Information%2327
+msgid "Delete Selected Contacts"
+msgstr ""
+
+#: Contact+Information%2328
+msgid ""
+"Are you sure you wish to delete the selected users from your contact list?"
+msgstr ""
+
+#: Contact+Information%2329
+msgid "This contact is using a mobile device that does not support chats."
+msgstr ""
+
+#: Contact+Information%2330
+msgid "Profile for %1"
+msgstr ""
+
+#: Contact+Information%2331
+msgid "Contact Information"
+msgstr ""
+
+#: Contact+Information%2332
+msgid "Skype Name:"
+msgstr ""
+
+#: Contact+Information%2333
+msgid "Full Name:"
+msgstr ""
+
+#: Contact+Information%2334
+msgid "E-mail:"
+msgstr ""
+
+#: Contact+Information%2335
+msgid "Home Phone:"
+msgstr ""
+
+#: Contact+Information%2336
+msgid "Office Phone:"
+msgstr ""
+
+#: Contact+Information%2337
+msgid "Mobile Phone:"
+msgstr ""
+
+#: Contact+Information%2338
+msgid "Personal Information"
+msgstr ""
+
+#: Contact+Information%2339
+msgid "Contacts:"
+msgstr ""
+
+#: Contact+Information%2340
+msgid "Local Time:"
+msgstr ""
+
+#: Contact+Information%2341
+msgid "Birthday:"
+msgstr ""
+
+#: Contact+Information%2342
+msgid "Age:"
+msgstr ""
+
+#: Contact+Information%2343
+msgid "Gender:"
+msgstr ""
+
+#: Contact+Information%2344
+msgid "Language:"
+msgstr ""
+
+#: Contact+Information%2345
+msgid "Country:"
+msgstr ""
+
+#: Contact+Information%2346
+msgid "Region:"
+msgstr ""
+
+#: Contact+Information%2347
+msgid "City:"
+msgstr ""
+
+#: Contact+Information%2348
+msgid "Homepage:"
+msgstr ""
+
+#: Contact+Information%2349
+msgid "Phone Number:"
+msgstr ""
+
+#: Contact+Information%2350
+msgid "Male"
+msgstr ""
+
+#: Contact+Information%2351
+msgid "Female"
+msgstr ""
+
+#: Contact+Information%2352
+msgid "Change Avatar"
+msgstr ""
+
+#: Contact+Information%2353
+msgid "Remove Avatar"
+msgstr ""
+
+#: Contact+Information%2354
+msgid "Click here to read the privacy policy"
+msgstr ""
+
+#: Contact+Information%2355
+msgid "Clear Birthday"
+msgstr ""
+
+#: Contact+Information%2356
+msgid "-- Unspecified --"
+msgstr ""
+
+#: Contact+Information%2357
+msgid "Rename"
+msgstr ""
+
+#: Contact+Information%2358
+msgid "Type a new name or number for %1"
+msgstr ""
+
+#: Contact+Information%2359
+msgid "Clear Name"
+msgstr ""
+
+#: Contact+Information%2360
+msgid "Rename %1"
+msgstr ""
+
+#: Contact+Information%2361
+msgid "Type a new display name for %1"
+msgstr ""
+
+#: Contact+Information%2362
+msgid "Name"
+msgstr ""
+
+#: Contact+Information%2363
+msgid "Gender"
+msgstr ""
+
+#: Contact+Information%2364
+msgid "City"
+msgstr ""
+
+#: Contact+Information%2365
+msgctxt "Contact Information#65"
+msgid "Language"
+msgstr ""
+
+#: Contact+Information%2366
+msgctxt "Contact Information#66"
+msgid "Connecting"
+msgstr ""
+
+#: Contact+Information%2367
+msgid "Offline with Voicemail"
+msgstr ""
+
+#: Contact+Information%2368
+msgid "Offline with Call Forwarding"
+msgstr ""
+
+#: Contact+Information%2369
+msgid "Online from Mobile"
+msgstr ""
+
+#: Contact+Information%2370
+msgid "Away from Mobile"
+msgstr ""
+
+#: Contact+Information%2371
+msgid "Not Available from Mobile"
+msgstr ""
+
+#: Contact+Information%2372
+msgid "Do Not Disturb from Mobile"
+msgstr ""
+
+#: Contact+Information%2373
+msgid "Blocked"
+msgstr ""
+
+#: Contact+Information%2374
+msgctxt "Contact Information#74"
+msgid "Unknown"
+msgstr ""
+
+#: Contact+Information%2375
+msgid "Undisclosed number"
+msgstr ""
+
+#: Contact+Information%2376
+msgid "Echo Test Service"
+msgstr ""
+
+#: Contact+Information%2377
+#, fuzzy
+msgid "%n contact(s)"
+msgstr ""
+"\n"
+"            \n"
+"        "
+
+#: Contact+Information%2378
+msgid "This contact has a birthday today."
+msgstr ""
+
+#: Contact+Information%2379
+msgid "This contact is currently using a mobile device."
+msgstr ""
+
+#: Contact+Information%2380
+msgctxt "Contact Information#80"
+msgid "Unnamed"
+msgstr ""
+
+#: Contact+Information%2381
+msgid "Choose Avatar Image"
+msgstr ""
+
+#: Contact+Information%2382
+msgid "Contact Options"
+msgstr ""
+
+#: Contact+Information%2383
+msgid "Phone number"
+msgstr ""
+
+#: Contact+Information%2384
+msgid "%1 (%2) - %3 since %4"
+msgstr ""
+
+#: Contact+Information%2385
+msgid ""
+"<br>\n"
+"<br>\n"
+"<u>%1 is typing a message</u>"
+msgstr ""
+
+#: Contact+Information%2386
+msgid "Rename..."
+msgstr ""
+
+#: Contact+Information%2387
+msgid "Remove from Contacts"
+msgstr ""
+
+#: Contact+Information%2388
+msgid "Unblock This User"
+msgstr ""
+
+#: Contact+Information%2389
+msgid "Block This User"
+msgstr ""
+
+#: Contact+Information%2390
+msgid "Are you sure you wish to unblock %1?"
+msgstr ""
+
+#: Contact+Information%2391
+msgid "Pending contact request"
+msgstr ""
+
+#: Contact+Information%2392
+msgid "Are you sure you wish to delete the selected group?"
+msgstr ""
+
+#: Contact+Information%2393
+msgctxt "Contact Information#93"
+msgid "Send SMS"
+msgstr ""
+
+#: Contact+Information%2394
+msgid "Click this button to send SMS."
+msgstr ""
+
+#: Contact+Information%2395
+msgid "SMS Button"
+msgstr ""
+
+#: Contact+Information%2396
+msgctxt "Contact Information#96"
+msgid "OK"
+msgstr ""
+
+#: Contact+Information%2397
+msgid "Create Group"
+msgstr ""
+
+#: Contact+Information%2398
+msgid "Enter name for new group"
+msgstr ""
+
+#: Contact+Information%2399
+msgid "Edit Phone Number"
+msgstr ""
+
+#: Contact+Information%23100
+msgid "Save"
+msgstr ""
+
+#: Contact+Information%23101
+msgid "Labels for %1"
+msgstr ""
+
+#: Contact+Information%23102
+msgid "Enter a comma separated list of labels for %1"
+msgstr ""
+
+#: Contact+Information%23103
+msgid "Edit Labels..."
+msgstr ""
+
+#: Contact+Information%23104
+msgid "SkypeMe!™"
+msgstr ""
+
+#: Contact+Information%23105
+msgid "SkypeMe!™ from Mobile"
+msgstr ""
+
+# This is a window title
+#: Contact+Information%23106
+msgid "Block this user"
+msgstr ""
+
+# This is a window title
+#: Contact+Information%23107
+msgid "Unblock this user"
+msgstr ""
+
+#: Contact+Information%23108
+msgid "SkypeMe!?"
+msgstr ""
+
+#: Contact+Information%23109
+msgid "Last Seen:"
+msgstr ""
+
+#: Contact+Information%23110
+msgid "Hide"
+msgstr ""
+
+#: Contact+Information%23111
+msgid "Add more email addresses"
+msgstr ""
+
+#: Contact+Search%231
+msgid "Add Contact"
+msgstr ""
+
+#: Contact+Search%232
+msgid "Search"
+msgstr ""
+
+#: Contact+Search%233
+msgid "Country/Region"
+msgstr ""
+
+#: Contact+Search%234
+msgid "Phone Number"
+msgstr ""
+
+#: Contact+Search%235
+msgid "All Countries/Regions"
+msgstr ""
+
+#: Contact+Search%236
+msgid "Age Range"
+msgstr ""
+
+#: Contact+Search%237
+msgid "All Ages"
+msgstr ""
+
+#: Contact+Search%238
+msgid "State/Province"
+msgstr ""
+
+#: Contact+Search%239
+msgid "Do not specify"
+msgstr ""
+
+#: Contact+Search%2310
+msgid "All Languages"
+msgstr ""
+
+# Result Table Header: Full Name
+#: Contact+Search%2311
+msgctxt "Contact Search#11"
+msgid "Full Name"
+msgstr ""
+
+# Result Table Header: Skype Name
+#: Contact+Search%2312
+msgid "Skype Name"
+msgstr ""
+
+# Result Table Header: City, Country
+#: Contact+Search%2313
+msgid "City, Country"
+msgstr ""
+
+#: Contact+Search%2314
+msgid "Add a Skype Contact"
+msgstr ""
+
+#: Contact+Search%2315
+msgid "Search for Skype Contacts"
+msgstr ""
+
+#: Contact+Search%2316
+msgid "New Search"
+msgstr ""
+
+#: Contact+Search%2317
+msgid "Or add a Skype contact"
+msgstr ""
+
+#: Contact+Search%2318
+msgid "Add Number"
+msgstr ""
+
+#: Contact+Search%2319
+msgid "Cancel Search"
+msgstr ""
+
+#: Contact+Search%2320
+msgid "Search for Skype users"
+msgstr ""
+
+#: Contact+Search%2321
+msgid "Add a Skype contact using their Skype Name"
+msgstr ""
+
+#: Contact+Search%2322
+msgid "Add a phone number as a contact"
+msgstr ""
+
+#: Contact+Search%2323
+msgid ""
+"Search the Skype directory for old and new friends. If you know their Skype "
+"Name, full name or e-mail address, enter it into the box below."
+msgstr ""
+
+#: Contact+Search%2324
+msgid "Or add a phone number as a contact"
+msgstr ""
+
+#: Contact+Search%2325
+msgid "Enter the Skype Name of the person you wish to add into the box below."
+msgstr ""
+
+#: Contact+Search%2326
+msgid "Add a Phone Number"
+msgstr ""
+
+#: Contact+Search%2327
+msgid "The phone number %1 you entered is already in your contacts"
+msgstr ""
+
+#: Contact+Search%2328
+msgid "%1 is already in your contacts"
+msgstr ""
+
+#: Contact+Search%2329
+msgid "'SkypeMe!™' mode"
+msgstr ""
+
+#: Contact+Search%2330
+msgid "Show only SkypeMe!™ contacts"
+msgstr ""
+
+#: Contact+Search%2331
+msgid "Search Again"
+msgstr ""
+
+#: Controls#1
+msgid "Ctrl+O"
+msgstr ""
+
+#: Controls#2
+msgid "Ctrl+Q"
+msgstr ""
+
+#: Dates+and+Time%231
+msgid "Tomorrow"
+msgstr ""
+
+#: Dates+and+Time%232
+msgid "Today"
+msgstr ""
+
+#: Dates+and+Time%233
+msgid "Yesterday"
+msgstr ""
+
+#: EULA#1
+msgid "Skype End User License Agreement"
+msgstr ""
+
+#: EULA#2
+msgid ""
+"To start using Skype, you must agree to the terms of the End User License "
+"Agreement."
+msgstr ""
+
+#: EULA#3
+msgctxt "EULA#3"
+msgid "Language"
+msgstr ""
+
+#: EULA#4
+msgid "End User License Agreement"
+msgstr ""
+
+#: Events#1
+msgctxt "Events#1"
+msgid "Show History"
+msgstr ""
+
+#: Events#2
+msgctxt "Events#2"
+msgid "Mark All Viewed"
+msgstr ""
+
+#: Events#3
+msgctxt "Events#3"
+msgid "Undisclosed Number"
+msgstr ""
+
+#: Events#4
+msgid "Birthday for %1"
+msgstr ""
+
+#: Events#5
+msgid "Remind Me Later"
+msgstr ""
+
+#: Events#6
+msgid "Delete Event"
+msgstr ""
+
+#: Events#7
+msgid "Delete Selected Events"
+msgstr ""
+
+#: Events#8
+msgid "Unknown event"
+msgstr ""
+
+#: Events#9
+msgctxt "Events#9"
+msgid "Event History"
+msgstr ""
+
+#: Events#10
+msgid "New Events"
+msgstr ""
+
+#: Events#11
+msgid "Calls"
+msgstr ""
+
+#: Events#12
+msgid "Voicemails"
+msgstr ""
+
+#: Events#13
+msgctxt "Events#13"
+msgid "Chats"
+msgstr ""
+
+#: Events#14
+msgctxt "Events#14"
+msgid "File Transfers"
+msgstr ""
+
+#: Events#15
+msgctxt "Events#15"
+msgid "SMS"
+msgstr ""
+
+#: Events#16
+msgid "Birthdays"
+msgstr ""
+
+#: Events#17
+msgid "%1 has appeared online"
+msgstr ""
+
+#: Events#18
+msgid "%1 has gone offline"
+msgstr ""
+
+#: Events#19
+msgid "%1 has been added to your contact list"
+msgstr ""
+
+#: Events#20
+msgid "%1 has been deleted from your contact list"
+msgstr ""
+
+#: Events#21
+msgid "%1 has a birthday"
+msgstr ""
+
+#: Events#22
+msgid "%1, %2 turned %3"
+msgstr ""
+
+#: Events#23
+msgid "%1, %2 turns %3"
+msgstr ""
+
+#: Events#24
+msgctxt "Events#24"
+msgid "Test Event"
+msgstr ""
+
+#: Events#25
+msgid "Example Chat Message"
+msgstr ""
+
+#: Events#26
+msgid "This is an example of a chat event popup."
+msgstr ""
+
+#: Events#27
+msgid "Test Sound"
+msgstr ""
+
+#: Events#28
+msgid "Skype Login"
+msgstr ""
+
+#: Events#29
+msgid "Skype Logout"
+msgstr ""
+
+#: Events#30
+msgid "Skype Login Failed"
+msgstr ""
+
+#: Events#31
+msgid "Call Connecting"
+msgstr ""
+
+#: Events#32
+msgid "Incoming Call Ringing"
+msgstr ""
+
+#: Events#33
+msgid "Outgoing Call Ringing"
+msgstr ""
+
+#: Events#34
+msgid "Call Answered"
+msgstr ""
+
+#: Events#35
+msgid "Number Busy"
+msgstr ""
+
+#: Events#36
+msgctxt "Events#36"
+msgid "Call Missed"
+msgstr ""
+
+#: Events#37
+msgctxt "Events#37"
+msgid "Call Failed"
+msgstr ""
+
+#: Events#38
+msgctxt "Events#38"
+msgid "Call on Hold"
+msgstr ""
+
+#: Events#39
+msgid "Call Resumed"
+msgstr ""
+
+#: Events#40
+msgid "Call Waiting"
+msgstr ""
+
+#: Events#41
+msgid "Call Hungup"
+msgstr ""
+
+#: Events#42
+msgid "Call Ended"
+msgstr ""
+
+#: Events#43
+msgid "First Chat Message Received"
+msgstr ""
+
+#: Events#44
+msgid "Chat Message Received"
+msgstr ""
+
+#: Events#45
+msgid "Chat Message Sent"
+msgstr ""
+
+#: Events#46
+msgid "Contact Joined Chat"
+msgstr ""
+
+#: Events#47
+msgid "Contact Left Chat"
+msgstr ""
+
+#: Events#48
+msgid "Contact Kicked from Chat"
+msgstr ""
+
+#: Events#49
+msgid "Contact Came Online"
+msgstr ""
+
+#: Events#50
+msgid "Contact Went Offline"
+msgstr ""
+
+#: Events#51
+msgid "Contact Profile Updated"
+msgstr ""
+
+#: Events#52
+msgid "Contact Added to List"
+msgstr ""
+
+#: Events#53
+msgid "Contact Deleted from List"
+msgstr ""
+
+#: Events#54
+msgid "File Transfer Request"
+msgstr ""
+
+#: Events#55
+msgid "File Transfer Complete"
+msgstr ""
+
+#: Events#56
+msgid "File Transfer Failed"
+msgstr ""
+
+#: Events#57
+msgid "Contacts Received"
+msgstr ""
+
+#: Events#58
+msgid "Contacts Sent"
+msgstr ""
+
+#: Events#59
+msgid "SMS Received"
+msgstr ""
+
+#: Events#60
+msgid "SMS Sent"
+msgstr ""
+
+#: Events#61
+msgid "SMS Failed"
+msgstr ""
+
+#: Events#62
+msgid "Money Received"
+msgstr ""
+
+#: Events#63
+msgid "Money Sent"
+msgstr ""
+
+#: Events#64
+msgid "Credit Received"
+msgstr ""
+
+#: Events#65
+msgid "Credit Sent"
+msgstr ""
+
+#: Events#66
+msgid "Voicemail Received"
+msgstr ""
+
+#: Events#67
+msgctxt "Events#67"
+msgid "Voicemail Sent"
+msgstr ""
+
+#: Events#68
+msgid "Advertisement"
+msgstr ""
+
+#: Events#69
+msgid "Upsell"
+msgstr ""
+
+#: Events#70
+msgid "Contact's Birthday"
+msgstr ""
+
+#: Events#71
+msgid "Our Birthday"
+msgstr ""
+
+#: Events#72
+msgid "Credit is Low"
+msgstr ""
+
+#: Events#73
+msgctxt "Events#73"
+msgid "Unknown"
+msgstr ""
+
+# Example: [Yesterday, 29/12/2008], [Andrew] had a birthday
+#: Events#74
+msgid "%1, %2 had a birthday"
+msgstr ""
+
+# Example: [Tomorrow, 29/12/2008], [Andrew] has a birthday
+#: Events#75
+msgid "%1, %2 has a birthday"
+msgstr ""
+
+#: Events#76
+msgid "Incoming Contact Request"
+msgstr ""
+
+#: Events#77
+msgid "This is an example of a sms event popup."
+msgstr ""
+
+#: Events#78
+msgid "&Unread Chats"
+msgstr ""
+
+#: Events#79
+msgid "&Recent Chats"
+msgstr ""
+
+#: Events#80
+msgid "&Bookmarked Chats"
+msgstr ""
+
+#: Events#81
+msgid "Mark as Viewed"
+msgstr ""
+
+#: Events#82
+msgctxt "Events#82"
+msgid "Connecting"
+msgstr ""
+
+#: Events#83
+msgid "Transferring"
+msgstr ""
+
+#: Events#84
+msgid "Paused"
+msgstr ""
+
+#: Events#85
+msgid "Cancelled"
+msgstr ""
+
+#: Events#86
+msgctxt "Events#86"
+msgid "Failed"
+msgstr ""
+
+#: Events#87
+msgid "Completed"
+msgstr ""
+
+#: Events#88
+msgid "Incoming"
+msgstr ""
+
+#: Events#89
+msgid "Your Skype Access session is due to expire in %1 minutes."
+msgstr ""
+
+#: Events#90
+msgid "Skype Access - Extend Session"
+msgstr ""
+
+#: File+Transfer%231
+msgid "Send File"
+msgstr ""
+
+#: File+Transfer%232
+msgid "Open Receiving Directory"
+msgstr ""
+
+#: File+Transfer%233
+msgid "Send File to Selected Contacts"
+msgstr ""
+
+#: File+Transfer%234
+msgid "Incoming files from %1"
+msgstr ""
+
+#: File+Transfer%235
+msgctxt "File Transfer#5"
+msgid "Accept"
+msgstr ""
+
+#: File+Transfer%236
+msgctxt "File Transfer#6"
+msgid "Decline"
+msgstr ""
+
+#: File+Transfer%237
+msgid "%1 files - %2"
+msgstr ""
+
+#: File+Transfer%238
+msgid "Could not read from the file"
+msgstr ""
+
+#: File+Transfer%239
+msgid "Could not write to the file"
+msgstr ""
+
+#: File+Transfer%2310
+msgid "%1 could not write the file"
+msgstr ""
+
+#: File+Transfer%2311
+msgid "%1 has been offline for too long"
+msgstr ""
+
+#: File+Transfer%2312
+msgctxt "File Transfer#12"
+msgid "Failed"
+msgstr ""
+
+#: File+Transfer%2313
+msgid "Connecting to %1"
+msgstr ""
+
+#: File+Transfer%2314
+msgid "Receiving from %1"
+msgstr ""
+
+#: File+Transfer%2315
+msgid "Paused - Receiving from %1"
+msgstr ""
+
+#: File+Transfer%2316
+msgid "Completed - Received from %1"
+msgstr ""
+
+#: File+Transfer%2317
+msgid "Failed - %1"
+msgstr ""
+
+#: File+Transfer%2318
+msgid "Waiting for %1 to authorise transfer"
+msgstr ""
+
+#: File+Transfer%2319
+msgid "Sending file to %1"
+msgstr ""
+
+#: File+Transfer%2320
+msgid "Paused - Sending file to %1"
+msgstr ""
+
+#: File+Transfer%2321
+msgid "Completed - Sent to %1"
+msgstr ""
+
+#: File+Transfer%2322
+msgid "Status Unknown"
+msgstr ""
+
+#: File+Transfer%2323
+msgid "Accept All"
+msgstr ""
+
+#: File+Transfer%2324
+msgid "Decline All"
+msgstr ""
+
+#: File+Transfer%2325
+msgid "Open the directory for this file"
+msgstr ""
+
+#: File+Transfer%2326
+msgid "Open Directory"
+msgstr ""
+
+#: File+Transfer%2327
+msgid "%1 files"
+msgstr ""
+
+#: File+Transfer%2328
+msgid "%1 recipients"
+msgstr ""
+
+# Sub-transfer partner skypename, progress, speed and finish ETA
+#: File+Transfer%2329
+msgctxt "File Transfer#29"
+msgid "%1 - %2 (%3) - %4"
+msgstr ""
+
+# Top transfer partner skypename or recipient/file count, progress, speed and finish ETA
+#: File+Transfer%2330
+msgctxt "File Transfer#30"
+msgid "%1 - %2 (%3) - %4"
+msgstr ""
+
+# Progress: bytes transferred of bytes total
+#: File+Transfer%2331
+msgid "%1 of %2"
+msgstr ""
+
+# Speed: size units per second
+#: File+Transfer%2332
+msgid "%1ps"
+msgstr ""
+
+#: File+Transfer%2333
+msgid "Finishing in %1"
+msgstr ""
+
+#: File+Transfer%2334
+msgid "%1 seconds"
+msgstr ""
+
+#: File+Transfer%2335
+msgid "Choose Directory to Save Files"
+msgstr ""
+
+#: File+Transfer%2336
+msgid "Choose File Name to Save"
+msgstr ""
+
+#: File+Transfer%2337
+msgid "All files downloaded to:"
+msgstr ""
+
+#: File+Transfer%2338
+msgid "Open Default Download Directory"
+msgstr ""
+
+#: File+Transfer%2339
+msgid "Choose Default Directory to Save Files"
+msgstr ""
+
+#: File+Transfer%2340
+msgid "Change Default Download Directory..."
+msgstr ""
+
+#: File+Transfer%2341
+msgid "Choose File(s) to send to %1"
+msgstr ""
+
+#: File+Transfer%2342
+msgid "Choose File(s) to send to selected users"
+msgstr ""
+
+#: File+Transfer%2343
+msgctxt "File Transfer#43"
+msgid "File Transfers"
+msgstr ""
+
+#: File+Transfer%2344
+msgid "Accept File"
+msgstr ""
+
+#: File+Transfer%2345
+msgid "Resume"
+msgstr ""
+
+#: File+Transfer%2346
+msgid "Pause"
+msgstr ""
+
+#: File+Transfer%2347
+msgctxt "File Transfer#47"
+msgid "Cancel"
+msgstr ""
+
+#: File+Transfer%2348
+msgid "Retry"
+msgstr ""
+
+#: File+Transfer%2349
+msgid ""
+"Are you sure you want to cancel the file? If you cancel now you will not "
+"receive this file."
+msgstr ""
+
+#: File+Transfer%2350
+msgid ""
+"Are you sure you want to cancel the file? If you cancel now the other party "
+"will not receive this file."
+msgstr ""
+
+#: File+Transfer%2351
+msgid "Clear All"
+msgstr ""
+
+#: File+Transfer%2352
+msgid "Remove all completed and failed files from the list"
+msgstr ""
+
+#: File+Transfer%2353
+msgctxt "File Transfer#53"
+msgid "All Files"
+msgstr ""
+
+#: File+Transfer%2354
+msgctxt "File Transfer#54"
+msgid "Clear"
+msgstr ""
+
+#: File+Transfer%2355
+msgid "All Inactive Files"
+msgstr ""
+
+#: File+Transfer%2356
+#, fuzzy
+msgid "Clear %n Received File(s)"
+msgstr ""
+"\n"
+"            \n"
+"        "
+
+#: File+Transfer%2357
+#, fuzzy
+msgid "Clear %n Sent File(s)"
+msgstr ""
+"\n"
+"            \n"
+"        "
+
+#: File+Transfer%2358
+#, fuzzy
+msgid "Clear %n Failed File(s)"
+msgstr ""
+"\n"
+"            \n"
+"        "
+
+#: File+Transfer%2359
+msgid "Auto-Accept Files"
+msgstr ""
+
+#: File+Transfer%2360
+msgid ""
+"Sending your file is being relayed. Click this icon to find out what this "
+"means."
+msgstr ""
+
+#: File+Transfer%2361
+msgid ""
+"Some of the files are being relayed. Click this icon to find out what this "
+"means."
+msgstr ""
+
+#: File+Transfer%2362
+msgid "The file is being relayed. Click this icon to find out what this means."
+msgstr ""
+
+#: File+Transfer%2363
+msgid "1 file"
+msgstr ""
+
+#: File+Transfer%2364
+msgid "%1 has to accept your contact request first"
+msgstr ""
+
+#: File+Transfer%2365
+msgid "%1 cancelled the file sending"
+msgstr ""
+
+#: File+Transfer%2366
+msgid "%1 could not read the file"
+msgstr ""
+
+#: File+Transfer%2367
+msgid "%1 does not support file sending"
+msgstr ""
+
+#: File+Transfer%2368
+msgid "Incoming file from %1"
+msgstr ""
+
+#: File+Transfer%2369
+msgid "Cancelled - File from %1"
+msgstr ""
+
+#: File+Transfer%2370
+msgid "Cancelled - File to %1"
+msgstr ""
+
+#: File+Transfer%2371
+msgid "Accept File to..."
+msgstr ""
+
+#: File+Transfer%2372
+msgid "Decline file"
+msgstr ""
+
+#: File+Transfer%2373
+msgid "Decline File"
+msgstr ""
+
+#: File+Transfer%2374
+msgid "Accept all files"
+msgstr ""
+
+#: File+Transfer%2375
+msgid "Accept All Files"
+msgstr ""
+
+#: File+Transfer%2376
+msgid "Accept All Files to..."
+msgstr ""
+
+#: File+Transfer%2377
+msgid "Decline all files"
+msgstr ""
+
+#: File+Transfer%2378
+msgid "Decline All Files"
+msgstr ""
+
+#: File+Transfer%2379
+msgid "Pause all files"
+msgstr ""
+
+#: File+Transfer%2380
+msgid "Pause All Files"
+msgstr ""
+
+#: File+Transfer%2381
+msgid "Cancel all files"
+msgstr ""
+
+#: File+Transfer%2382
+msgid "Cancel All Files"
+msgstr ""
+
+#: File+Transfer%2383
+msgid "Retry failed files"
+msgstr ""
+
+#: File+Transfer%2384
+msgid "Retry Failed Files"
+msgstr ""
+
+#: File+Transfer%2385
+msgid "Cancel active files"
+msgstr ""
+
+#: File+Transfer%2386
+msgid "Cancel Active Files"
+msgstr ""
+
+#: File+Transfer%2387
+msgid ""
+"Are you sure you want to cancel the files? If you cancel now you will not "
+"receive these files."
+msgstr ""
+
+#: File+Transfer%2388
+#, fuzzy
+msgid "%n file(s) from %1"
+msgstr ""
+"\n"
+"            \n"
+"        "
+
+#: File+Transfer%2389
+#, fuzzy
+msgid "Accept %n file(s) from %1"
+msgstr ""
+"\n"
+"            \n"
+"        "
+
+#: File+Transfer%2390
+#, fuzzy
+msgid "Decline %n file(s) from %1"
+msgstr ""
+"\n"
+"            \n"
+"        "
+
+#: FindDialog#1
+msgid "Search options"
+msgstr ""
+
+#: FindDialog#2
+msgid "Direction"
+msgstr ""
+
+# sF_FIND_CAPTION
+#: FindDialog#3
+msgctxt "FindDialog#3"
+msgid "Find"
+msgstr ""
+
+# sF_FIND_FIND_WHAT
+#: FindDialog#4
+msgid "Fi&nd what:"
+msgstr ""
+
+# sF_FIND_WHOLE_WORDS
+#: FindDialog#5
+msgid "&Match whole word only"
+msgstr ""
+
+# sF_FIND_MATCH_CASE
+#: FindDialog#6
+msgid "M&atch case"
+msgstr ""
+
+# sF_FIND_IGNORE_TITLES
+#: FindDialog#7
+msgid "I&gnore poster names"
+msgstr ""
+
+# sF_FIND_DIRECTION_UP
+#: FindDialog#8
+msgid "&Up"
+msgstr ""
+
+# sF_FIND_DIRECTION_DOWN
+#: FindDialog#9
+msgid "D&own"
+msgstr ""
+
+# sF_OPTIONS_BUTTON_CANCEL
+#: FindDialog#10
+msgid "Cance&l"
+msgstr ""
+
+# sF_FIND_CAPTION
+#: FindDialog#11
+msgid "Find Text"
+msgstr ""
+
+#: LoadHistory#1
+msgctxt "LoadHistory#1"
+msgid "Form"
+msgstr ""
+
+#: LoadHistory#2
+msgid "loadhistory"
+msgstr ""
+
+#: LoadHistory#3
+msgid "Load chat history progress"
+msgstr ""
+
+#: LoadHistory#4
+msgid "Loading chat history..."
+msgstr ""
+
+#: LoadHistory#5
+msgctxt "LoadHistory#5"
+msgid "sendprogress"
+msgstr ""
+
+#: LoadHistory#6
+msgctxt "LoadHistory#6"
+msgid "Send progress count"
+msgstr ""
+
+#: LoadHistory#7
+msgctxt "LoadHistory#7"
+msgid "24 / 100"
+msgstr ""
+
+#: LoadHistory#8
+msgctxt "LoadHistory#8"
+msgid "sendprogressbar"
+msgstr ""
+
+#: LoadHistory#9
+msgctxt "LoadHistory#9"
+msgid "Send progress bar"
+msgstr ""
+
+#: Login#1
+msgctxt "Login#1"
+msgid "Form"
+msgstr ""
+
+#: Login#2
+msgid ""
+"<span style=\" font-size:13pt; font-weight:600; color:#00bfff;\">Welcome to "
+"Skype.</span>"
+msgstr ""
+
+#: Login#3
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal; text-decoration:none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">Skype Name</span></p></body></html>"
+msgstr ""
+
+#: Login#4
+msgid "<a href=\"moo\">Don't have a Skype Name yet?</a>"
+msgstr ""
+
+#: Login#5
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
+"weight:400; font-style:normal; text-decoration:none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"weight:600;\">Password</span></p></body></html>"
+msgstr ""
+
+#: Login#6
+msgid "<a href=\"\">Forgot your password?</a>"
+msgstr ""
+
+#: Login#7
+msgid "Sign me in when Skype starts"
+msgstr ""
+
+#: Login#8
+msgid "Sign in"
+msgstr ""
+
+#: Login#9
+msgid "Signing in..."
+msgstr ""
+
+#: Login#10
+msgid "Signed in"
+msgstr ""
+
+#: Login#11
+msgid "Logout requested"
+msgstr ""
+
+#: Login#12
+msgid "HTTPS proxy auth failed"
+msgstr ""
+
+#: Login#13
+msgid "SOCKS proxy auth failed"
+msgstr ""
+
+#: Login#14
+msgid "P2P connect failed"
+msgstr ""
+
+#: Login#15
+msgid "Server connect failed"
+msgstr ""
+
+#: Login#16
+msgid "Server is overloaded"
+msgstr ""
+
+#: Login#17
+msgid "Invalid Skype Name"
+msgstr ""
+
+#: Login#18
+msgid "Invalid Email"
+msgstr ""
+
+#: Login#19
+msgid "Unacceptable Password"
+msgstr ""
+
+#: Login#20
+msgid "Skype Name Taken"
+msgstr ""
+
+#: Login#21
+msgid "Rejected as underage"
+msgstr ""
+
+#: Login#22
+msgid "No such Skype Name"
+msgstr ""
+
+#: Login#23
+msgid "Incorrect Password"
+msgstr ""
+
+#: Login#24
+msgid "Too many login attempts"
+msgstr ""
+
+#: Login#25
+msgid "Another Skype instance may exist"
+msgstr ""
+
+#: Login#26
+msgid "Password has changed"
+msgstr ""
+
+#: Login#27
+msgid "Periodic UIC update failed"
+msgstr ""
+
+#: Login#28
+msgid "Sign up failed"
+msgstr ""
+
+#: Login#29
+msgid "Sign in failed"
+msgstr ""
+
+#: Login#30
+msgid "Signing up..."
+msgstr ""
+
+#: Login#31
+msgid "Forgot your password?"
+msgstr ""
+
+#: Login#32
+msgid "Create a new Skype Account"
+msgstr ""
+
+#: Login#33
+msgid "Sign up"
+msgstr ""
+
+#: Login#34
+msgctxt "Login#34"
+msgid "Full Name"
+msgstr ""
+
+#: Login#35
+msgid "Email Address"
+msgstr ""
+
+#: Login#36
+msgid "A valid e-mail address is the only way to retrieve lost passwords"
+msgstr ""
+
+#: Login#37
+msgid "Please email me with Skype news and special offers"
+msgstr ""
+
+#: Login#38
+msgid "Choose Skype Name"
+msgstr ""
+
+# Username Length Hint
+#: Login#39
+msgctxt "Login#39"
+msgid "Between 6 and 32 characters"
+msgstr ""
+
+#: Login#40
+msgctxt "Login#40"
+msgid "Password"
+msgstr ""
+
+# Minimum Password Length Hint
+#: Login#41
+msgid "Minimum 6 characters"
+msgstr ""
+
+#: Login#42
+msgid "Verify Password"
+msgstr ""
+
+# EULA Agreement: Part 1 of 5
+#: Login#43
+msgid "Yes, I have read and I accept the"
+msgstr ""
+
+# EULA Agreement: Part 2 of 5
+#: Login#44
+msgid "Skype End User License"
+msgstr ""
+
+# EULA Agreement: Part 3 of 5
+#: Login#45
+msgid "Skype Terms of Services"
+msgstr ""
+
+# EULA Agreement: Part 4 of 5
+#: Login#46
+msgid "and the"
+msgstr ""
+
+# EULA Agreement: Part 5 of 5
+#: Login#47
+msgid "Skype Privacy Statement"
+msgstr ""
+
+#: Login#48
+msgid "Fields marked with an asterisk are required"
+msgstr ""
+
+#: Login#49
+msgid "Sorry!"
+msgstr ""
+
+#: Login#50
+msgid "Please choose another below, or enter one of your own."
+msgstr ""
+
+#: Login#51
+msgid "Other: "
+msgstr ""
+
+#: Login#52
+msgid "Congratulations!"
+msgstr ""
+
+#: Login#53
+msgid ""
+"You have successfully signed up to Skype.  What would you like to do now?"
+msgstr ""
+
+#: Login#54
+msgid "Edit your profile so friends can find you"
+msgstr ""
+
+#: Login#55
+msgid "Search for new and old friends on Skype"
+msgstr ""
+
+#: Login#56
+msgid "Make a test call to check your sound configuration"
+msgstr ""
+
+#: Login#57
+msgid "Configure your devices and Skype's behaviour"
+msgstr ""
+
+#: Login#58
+msgid "Click here to configure network settings"
+msgstr ""
+
+#: Login#59
+msgid "Your Skype Name must be between 6 and 32 characters."
+msgstr ""
+
+#: Login#60
+msgid "Your Skype Name contains invalid characters."
+msgstr ""
+
+#: Login#61
+msgid "Your password must be at least 6 characters."
+msgstr ""
+
+#: Login#62
+msgid "Your entered passwords do not match."
+msgstr ""
+
+#: Login#63
+msgid "An e-mail address is required."
+msgstr ""
+
+#: Login#64
+msgid "You must agree to the terms specified."
+msgstr ""
+
+#: Login#65
+msgid "Sign up for your new Skype account"
+msgstr ""
+
+#: Login#66
+msgctxt "Login#66"
+msgid "Between 6 and 32 characters"
+msgstr ""
+
+#: Login#67
+msgid ""
+"Please wait while we create your account.\n"
+"\n"
+"This shouldn't take more than a few seconds."
+msgstr ""
+
+#: Login#68
+msgid "This Skype Name is taken.  Please choose another."
+msgstr ""
+
+#: Login#69
+msgid "This Skype Name is invalid.  Please choose another."
+msgstr ""
+
+#: Login#70
+msgid "This email is invalid.  Please choose another."
+msgstr ""
+
+#: Login#71
+msgid "This password is invalid.  Please choose another."
+msgstr ""
+
+#: Login#72
+msgid ""
+"There was a network problem while signing up for your account.\n"
+"\n"
+"Please check your network configuration or try again later.\n"
+msgstr ""
+
+#: Login#73
+msgid ""
+"There was a problem signing up for your account.\n"
+"\n"
+"Please try again.\n"
+msgstr ""
+
+#: Login#74
+msgctxt "Login#74"
+msgid "Change Password"
+msgstr ""
+
+#: Login#75
+msgid "Current Password"
+msgstr ""
+
+#: Login#76
+msgid "New Password"
+msgstr ""
+
+#: Login#77
+msgid "Verify New Password"
+msgstr ""
+
+#: Login#78
+msgid "Your password must be at least 6 characters in length."
+msgstr ""
+
+#: Login#79
+msgid "Automatically sign-in when I start Skype"
+msgstr ""
+
+#: Login#80
+msgid "Password Changed."
+msgstr ""
+
+#: Login#81
+msgid "Your password has been successfully changed."
+msgstr ""
+
+#: Login#82
+msgid "Your new and old passwords match."
+msgstr ""
+
+#: Login#83
+msgid "Your password is too long."
+msgstr ""
+
+#: Login#84
+msgid "Your password contains an invalid character."
+msgstr ""
+
+#: Login#85
+msgid "Click here to change your password"
+msgstr ""
+
+#: Login#86
+msgid "Changing Password..."
+msgstr ""
+
+#: Login#87
+msgid ""
+"Please wait while your password is changed.\n"
+"\n"
+"This shouldn't take more than a few seconds."
+msgstr ""
+
+#: Login#88
+msgid "Current password is incorrect."
+msgstr ""
+
+#: Login#89
+msgid ""
+"Server connect failed.\n"
+"Please check your internet connection and try again."
+msgstr ""
+
+#: Login#90
+msgid "Your new password can not be the same as your old password."
+msgstr ""
+
+#: Login#91
+msgid "Your new password is invalid."
+msgstr ""
+
+#: Login#92
+msgid "You must be logged in in order to change your password."
+msgstr ""
+
+#: Login#93
+msgid "Password Change Failed"
+msgstr ""
+
+#: Login#94
+msgid ""
+"An unknown error occured whilst changing your password.\n"
+"\n"
+"Please try again later."
+msgstr ""
+
+#: Login#95
+msgid "Your password must differ from your Skype Name."
+msgstr ""
+
+#: Login#96
+msgid "Your password has invalid format."
+msgstr ""
+
+#: Login#97
+msgid "Unfortunately, another person is already using this Skype Name."
+msgstr ""
+
+#: Login#98
+msgctxt "Login#98"
+msgid "Connect with Skype Access"
+msgstr ""
+
+#: Login#99
+msgid "This version of Skype is no longer supported"
+msgstr ""
+
+#: Login#100
+msgid ""
+"This password contains an easy-to-guess word or sequence eg Skype, 1234, "
+"ABCD."
+msgstr ""
+
+#: Login#101
+msgid "Your password needs to contain at least 1 letter and 1 number."
+msgstr ""
+
+#: Main+Window%231
+msgid "Click here to change your status"
+msgstr ""
+
+#: Main+Window%232
+msgid "Click here to personalise your mood and profile"
+msgstr ""
+
+#: Main+Window%233
+msgid "Click here to change your avatar"
+msgstr ""
+
+#: Main+Window%234
+msgid "Type your mood message in this box"
+msgstr ""
+
+#: Main+Window%235
+msgid "Skype Credit"
+msgstr ""
+
+#: Main+Window%236
+msgid "Skype Voicemail"
+msgstr ""
+
+#: Main+Window%237
+msgid "Visit account page"
+msgstr ""
+
+#: Main+Window%238
+msgid "Quit"
+msgstr ""
+
+#: Main+Window%239
+msgctxt "Main Window#9"
+msgid "Event History"
+msgstr ""
+
+#: Main+Window%2310
+msgid "Add or Search for Skype Contacts"
+msgstr ""
+
+#: Main+Window%2311
+msgid "Main Menu"
+msgstr ""
+
+#: Main+Window%2312
+msgctxt "Main Window#12"
+msgid "File Transfers"
+msgstr ""
+
+#: Main+Window%2313
+msgid "Binary file corrupted"
+msgstr ""
+
+#: Main+Window%2314
+msgid "Please reinstall Skype."
+msgstr ""
+
+# Pre-login main window title: ie. %1 = "Skype", %2 = "1.5", %3 = " (Alpha)"
+#: Main+Window%2315
+msgid "%1 %2%3 for Linux"
+msgstr ""
+
+#: Main+Window%2316
+msgid "%1 Skype Credit available"
+msgstr ""
+
+#: Main+Window%2317
+msgid "%1 People Online"
+msgstr ""
+
+#: Main+Window%2318
+msgctxt "Main Window#18"
+msgid "Images"
+msgstr ""
+
+#: Main+Window%2319
+msgid "Show Contacts"
+msgstr ""
+
+#: Main+Window%2320
+msgid "Click here to show contact list"
+msgstr ""
+
+#: Main+Window%2321
+msgctxt "Main Window#21"
+msgid "Show History"
+msgstr ""
+
+#: Main+Window%2322
+msgctxt "Main Window#22"
+msgid "Mark All Viewed"
+msgstr ""
+
+#: Main+Window%2323
+msgid "Click here to hide new events"
+msgstr ""
+
+#: Main+Window%2324
+msgid "Click here to show new events"
+msgstr ""
+
+#: Main+Window%2325
+msgid "Click here to show event history"
+msgstr ""
+
+#: Main+Window%2326
+msgid "Click here to show contacts"
+msgstr ""
+
+#: Main+Window%2327
+msgid "&Options"
+msgstr ""
+
+#: Main+Window%2328
+msgid "Sign &Out"
+msgstr ""
+
+#: Main+Window%2329
+msgid "&Quit"
+msgstr ""
+
+#: Main+Window%2330
+msgid "New Version Available"
+msgstr ""
+
+#: Main+Window%2331
+msgid "Open Download Page"
+msgstr ""
+
+#: Main+Window%2332
+msgid "A new version of Skype is now available for download."
+msgstr ""
+
+#: Main+Window%2333
+msgid "This is a required upgrade."
+msgstr ""
+
+#: Main+Window%2334
+#, fuzzy
+msgid "%n new event(s)"
+msgstr ""
+"\n"
+"            \n"
+"        "
+
+#: Main+Window%2335
+msgid "All Contacts"
+msgstr ""
+
+#: Main+Window%2336
+msgid "Online Contacts"
+msgstr ""
+
+#: Main+Window%2337
+msgid "Recently Contacted Contacts"
+msgstr ""
+
+#: Main+Window%2338
+msgid "Skype Contacts"
+msgstr ""
+
+#: Main+Window%2339
+msgid "Ungrouped Contacts"
+msgstr ""
+
+#: Main+Window%2340
+msgid "No Skype Credit"
+msgstr ""
+
+#: Main+Window%2341
+msgid "Online number expires in %1 days"
+msgstr ""
+
+#: Main+Window%2342
+msgid "Online number is inactive"
+msgstr ""
+
+#: Main+Window%2343
+msgid "%1 is not in your Contact list"
+msgstr ""
+
+#: Main+Window%2344
+msgid "Search for \"%1\" in the Skype Directory"
+msgstr ""
+
+#: Main+Window%2345
+msgid "Show Contact &Groups"
+msgstr ""
+
+#: Main+Window%2346
+msgid "Contact &Groups"
+msgstr ""
+
+#: Main+Window%2347
+msgid "&Hide Contact Groups"
+msgstr ""
+
+#: Main+Window%2348
+msgid "&Compact Contact Groups"
+msgstr ""
+
+#: Main+Window%2349
+msgid "&New Contact Group..."
+msgstr ""
+
+#: Main+Window%2350
+msgid "&Predefined Groups"
+msgstr ""
+
+#: Main+Window%2351
+msgid "Bookmarked Chats"
+msgstr ""
+
+#: Main+Window%2352
+msgid "Start &Conference Call..."
+msgstr ""
+
+#: Main+Window%2353
+msgid "Change &Password..."
+msgstr ""
+
+#: Main+Window%2354
+msgid "&About Skype"
+msgstr ""
+
+#: Main+Window%2355
+msgid "Total Contacts"
+msgstr ""
+
+#: Main+Window%2356
+msgid "Bookmarked Chats (0)"
+msgstr ""
+
+#: Main+Window%2357
+msgctxt "Main Window#57"
+msgid "Unnamed"
+msgstr ""
+
+#: Main+Window%2358
+msgid "Change &Status"
+msgstr ""
+
+#: Main+Window%2359
+msgid "Online number"
+msgstr ""
+
+#: Main+Window%2360
+msgid "Search Directory"
+msgstr ""
+
+#: Main+Window%2361
+msgctxt "Main Window#61"
+msgid "Call Phones or Send SMS"
+msgstr ""
+
+#: Main+Window%2362
+msgid ""
+"This is the amount of credit you have on your Skype account for making phone "
+"calls."
+msgstr ""
+
+#: Main+Window%2363
+msgid "Requests from New Contacts"
+msgstr ""
+
+#: Main+Window%2364
+msgid "Phone Numbers"
+msgstr ""
+
+#: Main+Window%2365
+msgid "Requests to New Contacts"
+msgstr ""
+
+#: Main+Window%2366
+msgid "1 free call"
+msgstr ""
+
+#: Main+Window%2367
+msgid "Call any phone with Skype. Your first call is free."
+msgstr ""
+
+#: Options#1
+msgid "General"
+msgstr ""
+
+#: Options#2
+msgid "Privacy"
+msgstr ""
+
+#: Options#3
+msgid "Notifications"
+msgstr ""
+
+#: Options#4
+msgid "Chat"
+msgstr ""
+
+#: Options#5
+msgid "Call Forwarding"
+msgstr ""
+
+#: Options#6
+msgctxt "Options#6"
+msgid "Voicemail"
+msgstr ""
+
+#: Options#7
+msgid "Sound Devices"
+msgstr ""
+
+#: Options#8
+msgid "Video Devices"
+msgstr ""
+
+#: Options#9
+msgid "Advanced"
+msgstr ""
+
+#: Options#10
+msgid "Blocked People"
+msgstr ""
+
+#: Options#11
+msgctxt "Options#11"
+msgid "Public API"
+msgstr ""
+
+#: Options#12
+msgctxt "Options#12"
+msgid "Close"
+msgstr ""
+
+#: Options#13
+msgctxt "Options#13"
+msgid "Options"
+msgstr ""
+
+#: Options#14
+msgid "When I double-click on a Contact or use the address field"
+msgstr ""
+
+#: Options#15
+msgid "Start a call"
+msgstr ""
+
+#: Options#16
+msgid "Start a chat"
+msgstr ""
+
+#: Options#17
+msgid "Show me as 'Away' when I am inactive for"
+msgstr ""
+
+#: Options#18
+msgid "minutes"
+msgstr ""
+
+#: Options#19
+msgid "Show me as 'Not Available' when I am inactive for"
+msgstr ""
+
+#: Options#20
+msgid "Start Skype minimised in the system tray"
+msgstr ""
+
+#: Options#21
+msgid "Set program language to:"
+msgstr ""
+
+#: Options#22
+msgid ""
+"Click 'Apply' and restart Skype for your language change to take effect."
+msgstr ""
+
+#: Options#23
+msgid "anybody"
+msgstr ""
+
+#: Options#24
+msgid "only people I have allowed"
+msgstr ""
+
+#: Options#25
+msgid "anybody with a visible number"
+msgstr ""
+
+#: Options#26
+msgid "only numbers of my Contacts"
+msgstr ""
+
+#: Options#27
+msgctxt "Options#27"
+msgid "Forever"
+msgstr ""
+
+#: Options#28
+msgid "2 weeks"
+msgstr ""
+
+#: Options#29
+msgid "1 month"
+msgstr ""
+
+#: Options#30
+msgid "3 months"
+msgstr ""
+
+#: Options#31
+msgid "Disable History"
+msgstr ""
+
+#: Options#32
+msgid "Allow my status to be shown on the web."
+msgstr ""
+
+#: Options#33
+msgid "Automatically answer incoming calls."
+msgstr ""
+
+#: Options#34
+msgid "Allow calls from..."
+msgstr ""
+
+#: Options#35
+msgid "Allow chats from..."
+msgstr ""
+
+#: Options#36
+msgid "Keep chat history for..."
+msgstr ""
+
+#: Options#37
+msgid "Enable Event"
+msgstr ""
+
+#: Options#38
+msgctxt "Options#38"
+msgid "Test Event"
+msgstr ""
+
+#: Options#39
+msgid "Restore Default"
+msgstr ""
+
+#: Options#40
+msgid "Advanced View"
+msgstr ""
+
+#: Options#41
+msgid "Execute the following script on any event:"
+msgstr ""
+
+#: Options#42
+msgid "Play sound file:"
+msgstr ""
+
+#: Options#43
+msgid "None Configured"
+msgstr ""
+
+#: Options#44
+msgid "The file is not accessible."
+msgstr ""
+
+#: Options#45
+msgid "Reset to Default Sound"
+msgstr ""
+
+#: Options#46
+msgid "Display pop-up notification"
+msgstr ""
+
+#: Options#47
+msgid "Send the other contact a message:"
+msgstr ""
+
+#: Options#48
+msgid "Execute the following script:"
+msgstr ""
+
+#: Options#49
+msgid "Sounds"
+msgstr ""
+
+#: Options#50
+msgid "When somebody starts a chat with me..."
+msgstr ""
+
+#: Options#51
+msgid "Display an event notification"
+msgstr ""
+
+#: Options#52
+msgid "Create a minimised chat window"
+msgstr ""
+
+#: Options#53
+msgid "Open a chat window in front of me"
+msgstr ""
+
+#: Options#54
+msgid "Show emoticons"
+msgstr ""
+
+#: Options#55
+msgid "Show animated emoticons"
+msgstr ""
+
+#: Options#56
+msgid "Show others when I am typing"
+msgstr ""
+
+#: Options#57
+msgid ""
+"With call forwarding, you can answer your Skype calls even when you're not "
+"currently online."
+msgstr ""
+
+#: Options#58
+msgid ""
+"So you could be away from home, or perhaps traveling on the other side of "
+"the planet with no internet access, and still receive your calls."
+msgstr ""
+
+#: Options#59
+msgid "Learn more about Call Forwarding"
+msgstr ""
+
+#: Options#60
+msgid ""
+"Call Forwarding will re-direct any calls received when your are not on Skype "
+"to a telephone number of your choice."
+msgstr ""
+
+#: Options#61
+msgid "Forward calls when I'm not on Skype"
+msgstr ""
+
+#: Options#62
+msgid "Forward calls if I do not answer on Skype within"
+msgstr ""
+
+#: Options#63
+msgctxt "Options#63"
+msgid "seconds"
+msgstr ""
+
+#: Options#64
+msgid ""
+"You need to <a href=\"buyskypecredit\">purchase Skype Credit</a> to forward "
+"calls to ordinary phones."
+msgstr ""
+
+#: Options#65
+msgid "Ringing"
+msgstr ""
+
+#: Options#66
+msgid "Make a test sound"
+msgstr ""
+
+#: Options#67
+msgid "Make a test call"
+msgstr ""
+
+#: Options#68
+msgid "Allow Skype to automatically adjust my mixer levels"
+msgstr ""
+
+#: Options#69
+msgid "nobody"
+msgstr ""
+
+#: Options#70
+msgid "Automatically receive video from..."
+msgstr ""
+
+#: Options#71
+msgid "Show that I have video to..."
+msgstr ""
+
+#: Options#72
+msgid "Skype"
+msgstr ""
+
+#: Options#73
+msgid "Check for updates on startup"
+msgstr ""
+
+#: Options#74
+msgid "Display technical call info"
+msgstr ""
+
+#: Options#75
+msgid "Connection"
+msgstr ""
+
+#: Options#76
+msgid "Use port"
+msgstr ""
+
+#: Options#77
+msgid "for incoming connections"
+msgstr ""
+
+#: Options#78
+msgid "Automatic Proxy Detection"
+msgstr ""
+
+#: Options#79
+msgid "HTTPS Proxy"
+msgstr ""
+
+#: Options#80
+msgid "SOCKS Proxy"
+msgstr ""
+
+#: Options#81
+msgid "Host"
+msgstr ""
+
+#: Options#82
+msgid "Port"
+msgstr ""
+
+#: Options#83
+msgid "User"
+msgstr ""
+
+#: Options#84
+msgctxt "Options#84"
+msgid "Password"
+msgstr ""
+
+#: Options#85
+msgid "Unblock Selected People"
+msgstr ""
+
+#: Options#86
+msgid "Add Contacts I unblock back to my Contact List"
+msgstr ""
+
+#: Options#87
+msgid "Allow my contacts to see the number of contacts I have."
+msgstr ""
+
+#: Options#88
+msgid ""
+"To forward calls to phones, you need Skype Credit. Each forwarded call to a "
+"phone will be charged Skype Credit at normal rates."
+msgstr ""
+
+#: Options#89
+msgid ""
+"Each forwarded call to a phone will be charged Skype Credit at <a "
+"href=\"normalrates\">normal rates</a>."
+msgstr ""
+
+#: Options#90
+msgid "Show when others are typing"
+msgstr ""
+
+#: Options#91
+msgctxt "Options#91"
+msgid "SMS"
+msgstr ""
+
+#: Options#92
+msgid "Choose Sound File"
+msgstr ""
+
+#: Options#93
+msgid "Allow calls to my online number(s) from..."
+msgstr ""
+
+#: Options#94
+msgid ""
+"The hassle-free way to send text messages to friends when they are offline "
+"or on the move."
+msgstr ""
+
+#: Options#95
+msgid ""
+"Sending an SMS from the comfort of your keyboard is simple, plus it's cheap "
+"and easy to pay for - all you need is a little Skype Credit."
+msgstr ""
+
+#: Options#96
+msgid ""
+"You can even set your messages to look like they came from your mobile so "
+"friends reply to your mobile."
+msgstr ""
+
+#: Options#97
+msgid "Learn more about SMS"
+msgstr ""
+
+#: Options#98
+msgid "My Skype Name (%1). Recipients cannot send SMS replies."
+msgstr ""
+
+#: Options#99
+msgid "Send a verification code to your mobile number."
+msgstr ""
+
+#: Options#100
+msgid "Select your country"
+msgstr ""
+
+#: Options#101
+msgid "Type your mobile number"
+msgstr ""
+
+#: Options#102
+msgid "Submit"
+msgstr ""
+
+#: Options#103
+msgid "You will be charged the standard rate for one SMS message."
+msgstr ""
+
+#: Options#104
+msgid "Enter the code you received on your phone and click Confirm."
+msgstr ""
+
+#: Options#105
+msgid "Confirm"
+msgstr ""
+
+#: Options#106
+msgid "<a href=\"smsrates\">SMS destinations and rates</a>."
+msgstr ""
+
+#: Options#107
+msgid "Microphone"
+msgstr ""
+
+#: Options#108
+msgid "Speakers"
+msgstr ""
+
+#: Options#109
+msgid "Choose style: "
+msgstr ""
+
+#: Options#110
+msgid "Desktop Settings"
+msgstr ""
+
+#: Options#111
+msgid ""
+"Click 'Apply' and restart Skype for your Desktop Settings style change to "
+"take effect."
+msgstr ""
+
+#: Options#112
+msgid "When I send an SMS message, identify me by..."
+msgstr ""
+
+#: Options#113
+msgid ""
+"It appears your system has PulseAudio running: to change sound settings you "
+"need to use your Desktop Manager volume control or PulseAudio volume "
+"control."
+msgstr ""
+
+#: Options#114
+msgid "Open PulseAudio Volume Control"
+msgstr ""
+
+#: Options#115
+msgid "Open %1"
+msgstr ""
+
+#: Options#116
+msgid "Trying to open %1"
+msgstr ""
+
+#: Options#117
+msgid "Failed to start %1"
+msgstr ""
+
+#: Options#118
+msgid "Enable Skype Access"
+msgstr ""
+
+#: Quickfilter#1
+msgid "Show contact list"
+msgstr ""
+
+#: Quickfilter#2
+msgid "** Show contact list with groups"
+msgstr ""
+
+#: Quickfilter#3
+msgid "Call a contact not in your list"
+msgstr ""
+
+#: Quickfilter#4
+msgid "** Add to conference by name/number"
+msgstr ""
+
+#: Quickfilter#5
+msgid "** Send an SMS message"
+msgstr ""
+
+#: Quickfilter#6
+msgid "** Join a public chat"
+msgstr ""
+
+#: Quickfilter#7
+msgid "Search through your contacts"
+msgstr ""
+
+#: Quickfilter#8
+msgid "Search through event history"
+msgstr ""
+
+#: Quickfilter#9
+msgid "Enter a public chat blob"
+msgstr ""
+
+#: Quickfilter#10
+msgid "Usage: +number message"
+msgstr ""
+
+#: Quickfilter#11
+msgid "Send an SMS message"
+msgstr ""
+
+#: Quickfilter#12
+msgid "Enter a number or Skype Name"
+msgstr ""
+
+#: Quickfilter#13
+msgid "Join a public chat"
+msgstr ""
+
+#: Screensharing#1
+msgid "Stop screen sharing"
+msgstr ""
+
+#: Screensharing#2
+msgid "Share Your Screen"
+msgstr ""
+
+#: Screensharing#3
+msgid "Share Full Screen"
+msgstr ""
+
+#: Screensharing#4
+msgid "Share Selection"
+msgstr ""
+
+#: Screensharing#5
+msgid "Display %1 (%2 x %3)"
+msgstr ""
+
+#: Screensharing#6
+msgid "Start screen sharing"
+msgstr ""
+
+#: Screensharing#7
+msgid "Screen sharing"
+msgstr ""
+
+#: Screensharing#8
+msgid ""
+"Starting screen sharing will also start an audio call. Are you sure you want "
+"to start an audio call?"
+msgstr ""
+
+#: Send+Contacts%231
+msgid "Send Contacts"
+msgstr ""
+
+#: Send+Contacts%232
+msgid "Send contacts"
+msgstr ""
+
+#: Send+Contacts%233
+msgid "&Send"
+msgstr ""
+
+#: Send+Contacts%234
+msgctxt "Send Contacts#4"
+msgid "&Cancel"
+msgstr ""
+
+#: Send+Contacts%235
+msgid "Send"
+msgstr ""
+
+#: Send+Contacts%236
+msgid "Do not send"
+msgstr ""
+
+#: Send+Contacts%237
+msgctxt "Send Contacts#7"
+msgid "Contacts in your list"
+msgstr ""
+
+#: Send+Contacts%238
+msgid "Contacts to send"
+msgstr ""
+
+#: Send+Contacts%239
+msgid "Not sending to %1: PSTN number."
+msgstr ""
+
+#: Send+Contacts%2310
+msgid "Not sending to %1: contact is blocked."
+msgstr ""
+
+#: Send+Contacts%2311
+msgid "Not sending to myself."
+msgstr ""
+
+#: Send+Contacts%2312
+msgid "Not sending to %1: Internal error."
+msgstr ""
+
+#: Send+Contacts%2313
+msgctxt "Send Contacts#13"
+msgid "%1 / %2"
+msgstr ""
+
+#: Send+Contacts%2314
+msgid "cancelled"
+msgstr ""
+
+#: Send+Contacts%2315
+msgid "&Close"
+msgstr ""
+
+#: Send+Contacts%2316
+msgid "Sent contacts to %1."
+msgstr ""
+
+#: Send+Contacts%2317
+msgid "Contacts NOT sent to %1."
+msgstr ""
+
+#: Send+Contacts%2318
+msgid "Received contacts from %1 (%2)"
+msgstr ""
+
+#: Send+Contacts%2319
+msgctxt "Send Contacts#19"
+msgid "&Add"
+msgstr ""
+
+#: Send+Contacts%2320
+msgctxt "Send Contacts#20"
+msgid "Accept"
+msgstr ""
+
+#: Send+Contacts%2321
+msgid "Do not accept"
+msgstr ""
+
+#: Send+Contacts%2322
+msgid "Received contacts"
+msgstr ""
+
+#: Send+Contacts%2323
+msgid "Contacts to accept"
+msgstr ""
+
+#: Send+Contacts%2324
+msgid "Recipients list (space separated Skype Names):"
+msgstr ""
+
+#: SendProgress#1
+msgctxt "SendProgress#1"
+msgid "Form"
+msgstr ""
+
+#: SendProgress#2
+msgid "sentcontacts"
+msgstr ""
+
+#: SendProgress#3
+msgid "Sent contacts list"
+msgstr ""
+
+#: SendProgress#4
+msgid "Sending contacts..."
+msgstr ""
+
+#: SendProgress#5
+msgctxt "SendProgress#5"
+msgid "sendprogress"
+msgstr ""
+
+#: SendProgress#6
+msgctxt "SendProgress#6"
+msgid "Send progress count"
+msgstr ""
+
+#: SendProgress#7
+msgctxt "SendProgress#7"
+msgid "24 / 100"
+msgstr ""
+
+#: SendProgress#8
+msgctxt "SendProgress#8"
+msgid "sendprogressbar"
+msgstr ""
+
+#: SendProgress#9
+msgctxt "SendProgress#9"
+msgid "Send progress bar"
+msgstr ""
+
+#: SendProgress#10
+msgctxt "SendProgress#10"
+msgid "&Cancel"
+msgstr ""
+
+#: Skype+Access%231
+msgid "Skype Access..."
+msgstr ""
+
+# This is a window title
+#: Skype+Access%232
+msgid "Skype Access"
+msgstr ""
+
+#: Skype+Access%233
+msgid "Detecting Skype Access availability"
+msgstr ""
+
+#: Skype+Access%234
+msgctxt "Skype Access#4"
+msgid "Connect with Skype Access"
+msgstr ""
+
+#: Skype+Access%235
+msgid "Connect to this hotspot for free internet access with %1 ¹."
+msgstr ""
+
+#: Skype+Access%236
+msgid ""
+"Use your Skype Credit to pay for internet access with %1 ¹.<br /><br />Your "
+"credit balance is <b>%2</b>, which means you can have about <b>%3 "
+"minutes</b> online at %4 per minute.<br /><br />Skype will reserve some "
+"credit from your account so your connection doesn't get interrupted. But "
+"don't worry - when you disconnect we'll only charge you for the minutes "
+"you've actually used."
+msgstr ""
+
+#: Skype+Access%237
+msgid "Connect"
+msgstr ""
+
+#: Skype+Access%238
+msgctxt "Skype Access#8"
+msgid "Connecting..."
+msgstr ""
+
+#: Skype+Access%239
+msgid "Skype Access is connecting you to %1"
+msgstr ""
+
+#: Skype+Access%2310
+msgid "Connected"
+msgstr ""
+
+#: Skype+Access%2311
+msgid "You are connected to the internet."
+msgstr ""
+
+#: Skype+Access%2312
+msgid "WiFi network: %1"
+msgstr ""
+
+#: Skype+Access%2313
+msgctxt "Skype Access#13"
+msgid "Duration: %1"
+msgstr ""
+
+#: Skype+Access%2314
+msgid "Cost: %1"
+msgstr ""
+
+#: Skype+Access%2315
+msgid ""
+"To disconnect and stop being charged, click the Disconnect button. Any "
+"reserved credit that you don't use will appear back in your account."
+msgstr ""
+
+#: Skype+Access%2316
+msgid "Disconnect"
+msgstr ""
+
+#: Skype+Access%2317
+msgid "Disconnected"
+msgstr ""
+
+#: Skype+Access%2318
+msgid "Your Skype Access session has ended."
+msgstr ""
+
+#: Skype+Access%2319
+msgid "Extend your Skype Access session"
+msgstr ""
+
+#: Skype+Access%2320
+msgid "Your session will expire in %1 minutes."
+msgstr ""
+
+#: Skype+Access%2321
+msgid "Extend session"
+msgstr ""
+
+#: Skype+Access%2322
+msgid "Skype Access - hotspot not supported"
+msgstr ""
+
+#: Skype+Access%2323
+msgid ""
+"Use Skype Access to connect to the web and pay per minute with your Skype "
+"Credit at over 100,000 WiFi hotspots worldwide.<br /><br />The current "
+"network does not support Skype Access. Please try another available public "
+"WiFi network.<br /><br />Tip: Skype Access doesn't work with private or "
+"closed networks."
+msgstr ""
+
+#: Skype+Access%2324
+msgid ""
+"This WiFi hotspot supports Skype Access - the easy way to get online.<br "
+"/>Simply pay per minute with Skype Credit.<br /><br />Unfortunately you "
+"don't have enough credit to use Skype Access today.<br /><br />You can buy "
+"credit from skype.com. When you're next online, visit "
+"skype.com/go/skypecredit to find out more."
+msgstr ""
+
+#: Skype+Access%2325
+msgid ""
+"Use your Skype Credit to pay for internet access at <b>%1</b> per minute.<br "
+"/><br />Skype will reserve some credit from your account so your connection "
+"doesn't get interrupted. But don't worry - when you disconnect we'll only "
+"charge you for the minutes you've actually used."
+msgstr ""
+
+#: Skype+Access%2326
+msgid "Click Extend session to reserve more minutes online."
+msgstr ""
+
+#: Sms#1
+msgctxt "Sms#1"
+msgid "This message is not delivered yet."
+msgstr ""
+
+#: Sms#2
+msgid "Delivery failed."
+msgstr ""
+
+#: Sms#3
+msgid "Message is delivered."
+msgstr ""
+
+#: Sms#4
+msgid "SMS message to %1 is sent"
+msgstr ""
+
+#: Sms#5
+msgid "SMS message to %1 is failed"
+msgstr ""
+
+#: Sms#6
+msgid "Unknown SMS event"
+msgstr ""
+
+#: Sms#7
+msgid "Mobile"
+msgstr ""
+
+#: Sms#8
+msgid "Home"
+msgstr ""
+
+#: Sms#9
+msgid "Office"
+msgstr ""
+
+#: Sms#10
+msgctxt "Sms#10"
+msgid "Send SMS"
+msgstr ""
+
+#: Sms#11
+msgid "Connection to server failed."
+msgstr ""
+
+#: Sms#12
+msgid "No SMS capability."
+msgstr ""
+
+#: Sms#13
+msgid "No credit to pay for SMS."
+msgstr ""
+
+#: Sms#14
+msgid "Invalid confirmation code."
+msgstr ""
+
+#: Sms#15
+msgid "User is blocked."
+msgstr ""
+
+#: Sms#16
+msgid "IP address is blocked."
+msgstr ""
+
+#: Sms#17
+msgid "Node is blocked."
+msgstr ""
+
+#: Sms#18
+msgid "No user id capability."
+msgstr ""
+
+#: Sms#19
+msgid "Unknown error."
+msgstr ""
+
+#: Sms#20
+msgctxt "Sms#20"
+msgid "Add People"
+msgstr ""
+
+#: Sms#21
+msgid "Add people to SMS"
+msgstr ""
+
+#: Sms#22
+msgid "Click to send SMS"
+msgstr ""
+
+#: Sms#23
+msgid "Click here to hide members"
+msgstr ""
+
+#: Sms#24
+msgid "Click here to show members"
+msgstr ""
+
+#: Sms#25
+msgid "SMS #%1:"
+msgstr ""
+
+#: Sms#26
+msgid "SMS is outgoing only! You can send your first SMS for free."
+msgstr ""
+
+#: Sms#27
+msgid "SMS is outgoing only! You can send this SMS at no charge."
+msgstr ""
+
+#: Sms#28
+msgid "SMS is outgoing only! This SMS will cost %1 to send."
+msgstr ""
+
+#: Sms#29
+msgid "You can not send an SMS to %1 %2."
+msgstr ""
+
+#: Sms#30
+msgctxt "Sms#30"
+msgid "ChatToolbar"
+msgstr ""
+
+#: Sms#31
+msgctxt "Sms#31"
+msgid "Chat window control toolbar"
+msgstr ""
+
+#: Sms#32
+msgid "Add SMS Members"
+msgstr ""
+
+#: Sms#33
+msgctxt "Sms#33"
+msgid "&OK"
+msgstr ""
+
+#: Sms#34
+msgctxt "Sms#34"
+msgid "&Cancel"
+msgstr ""
+
+#: Sms#35
+msgctxt "Sms#35"
+msgid "&Add"
+msgstr ""
+
+#: Sms#36
+msgctxt "Sms#36"
+msgid "&Remove"
+msgstr ""
+
+#: Sms#37
+msgctxt "Sms#37"
+msgid "Choose contacts"
+msgstr ""
+
+#: Sms#38
+msgid "SMS participants"
+msgstr ""
+
+#: Sms#39
+msgid "%1 Skype™ SMS"
+msgstr ""
+
+#: Sms#40
+msgid ""
+"You don’t have any credit, you need to <a href=\"buyskypecredit\">purchase "
+"Skype Credit.</a>"
+msgstr ""
+
+#: TopicContainer#1
+msgid "Change Picture..."
+msgstr ""
+
+#: TopicContainer#2
+msgctxt "TopicContainer#2"
+msgid "Remove Picture"
+msgstr ""
+
+#: Video#1
+msgid "Stop My Video"
+msgstr ""
+
+#: Video#2
+msgid "Show Myself View"
+msgstr ""
+
+#: Video#3
+msgid "Start My Video"
+msgstr ""
+
+#: Video#4
+msgid "Normal Size"
+msgstr ""
+
+#: Video#5
+msgid "Double Size"
+msgstr ""
+
+#: Video#6
+msgid "Full-screen"
+msgstr ""
+
+#: Video#7
+msgid "Stop receiving video"
+msgstr ""
+
+#: Video#8
+msgid "Skype Full-Screen Video"
+msgstr ""
+
+#: Video#9
+msgctxt "Video#9"
+msgid "Call with %1"
+msgstr ""
+
+#: Video#10
+msgid "Switch to Window View"
+msgstr ""
+
+#: Video#11
+msgid "%1 would like to start a video call with you"
+msgstr ""
+
+#: Video#12
+msgid "Enable Skype Video"
+msgstr ""
+
+#: Video#13
+msgid ""
+"Start my video automatically\n"
+"when I am in a call"
+msgstr ""
+
+#: Video#14
+msgid "Select webcam:"
+msgstr ""
+
+#: Video#15
+msgid "No devices found"
+msgstr ""
+
+#: Video#16
+msgid "Test"
+msgstr ""
+
+#: Video#17
+msgid "Skype Full-Screen Video Preview"
+msgstr ""
+
+#: Voicemail#1
+msgid "Voicemail account expires in %1 days"
+msgstr ""
+
+#: Voicemail#2
+msgid "Voicemail account is inactive"
+msgstr ""
+
+#: Voicemail#3
+msgid "Send Voicemail"
+msgstr ""
+
+#: Voicemail#4
+msgid "Listen to this Voicemail message"
+msgstr ""
+
+#: Voicemail#5
+msgid "Stop Voicemail playback"
+msgstr ""
+
+#: Voicemail#6
+msgctxt "Voicemail#6"
+msgid "Voicemail"
+msgstr ""
+
+#: Voicemail#7
+msgid "Play Greeting"
+msgstr ""
+
+#: Voicemail#8
+msgid "Record New Greeting"
+msgstr ""
+
+#: Voicemail#9
+msgid "Restore Default Greeting"
+msgstr ""
+
+#: Voicemail#10
+msgid "Default voicemail greeting"
+msgstr ""
+
+#: Voicemail#11
+msgid "Custom voicemail greeting"
+msgstr ""
+
+#: Voicemail#12
+msgid "Duration: %1 seconds"
+msgstr ""
+
+#: Voicemail#13
+msgid "Send calls to voicemail if..."
+msgstr ""
+
+#: Voicemail#14
+msgctxt "Voicemail#14"
+msgid "seconds"
+msgstr ""
+
+#: Voicemail#15
+msgid "I reject an incoming call"
+msgstr ""
+
+#: Voicemail#16
+msgid "I am already on a call"
+msgstr ""
+
+#: Voicemail#17
+msgid ""
+"A convenient way for not missing a call on Skype when you're busy, not "
+"available or simply offline."
+msgstr ""
+
+#: Voicemail#18
+msgid ""
+"With Skype Voicemail, it's easy to inform or update your friends, family and "
+"colleagues on Skype without bothering them.  It's like sending a chat "
+"message with the microphone turned on."
+msgstr ""
+
+#: Voicemail#19
+msgid "Learn more about Skype Voicemail"
+msgstr ""
+
+#: Voicemail#20
+msgid "Stop Greeting Playback"
+msgstr ""
+
+#: Voicemail#21
+msgid "Finish Recording"
+msgstr ""
+
+#: Voicemail#22
+msgid "Voicemail Greeting Message"
+msgstr ""
+
+#: Voicemail#23
+msgid "I do not answer within"
+msgstr ""
