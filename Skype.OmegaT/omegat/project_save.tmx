@@ -18,8 +18,8 @@
     <tuv lang="EN">
         <seg>%1 (%2) - %3 since %4</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110914T103445Z">
-        <seg>%1 (%2) — %3: %4</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T133533Z">
+        <seg>%1 (%2) — %3 ад %4</seg>
     </tuv>
 </tu>
 <tu>
@@ -6642,8 +6642,8 @@
     <tuv lang="EN">
         <seg>Change Default Download Directory...</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110827T132835Z">
-        <seg>Зьмяніць звычайны каталёґ спампоўванага…</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T132634Z">
+        <seg>Зьмяніць звычайны каталёґ спампаванага…</seg>
     </tuv>
 </tu>
 <tu>
@@ -14075,8 +14075,8 @@
     <tuv lang="EN">
         <seg>Join a public chat</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110827T151650Z">
-        <seg>Далучыцеся да адкрытае гутаркі</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T134232Z">
+        <seg>Далучыцца да адкрытае гутаркі</seg>
     </tuv>
 </tu>
 <tu>
@@ -14291,8 +14291,8 @@
     <tuv lang="EN">
         <seg>Last 6 Months</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110914T102234Z">
-        <seg>Апошнія паўгады</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T133939Z">
+        <seg>апошнія паўгады</seg>
     </tuv>
 </tu>
 <tu>
@@ -14323,8 +14323,8 @@
     <tuv lang="EN">
         <seg>Last Year</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110913T141632Z">
-        <seg>Апошні год</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T133942Z">
+        <seg>апошні год</seg>
     </tuv>
 </tu>
 <tu>
@@ -20423,8 +20423,8 @@ POT-Creation-Date: 2011-09-13 11:59+030</seg>
     <tuv lang="EN">
         <seg>Search the Skype directory for old and new friends.</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110909T124118Z">
-        <seg>Шукайце старых альбо знайдзіце новых сяброў у каталёґу Skype.</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T132629Z">
+        <seg>Шукайце старых альбо знайдзіце новых сяброў у даведніку Skype.</seg>
     </tuv>
 </tu>
 <tu>
@@ -21935,8 +21935,8 @@ POT-Creation-Date: 2011-09-13 11:59+030</seg>
     <tuv lang="EN">
         <seg>Show only SkypeMe!™ contacts</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110827T151044Z">
-        <seg>Паказваць толькі кантакты «Пагамонім!!»</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T131905Z">
+        <seg>Паказваць толькі людзей у стане «Пагамонім!!»</seg>
     </tuv>
 </tu>
 <tu>
@@ -25535,8 +25535,8 @@ POT-Creation-Date: 2011-09-13 11:59+030</seg>
     <tuv lang="EN">
         <seg>Tomorrow</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110827T125318Z">
-        <seg>Заўтра</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T133540Z">
+        <seg>заўтра</seg>
     </tuv>
 </tu>
 <tu>
@@ -27063,8 +27063,8 @@ POT-Creation-Date: 2011-09-13 11:59+030</seg>
     <tuv lang="EN">
         <seg>Visit account page</seg>
     </tuv>
-    <tuv lang="BE" changeid="klyok" changedate="20110827T142557Z">
-        <seg>Наведаць бачыну рахунку</seg>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T134317Z">
+        <seg>Бачына рахунку</seg>
     </tuv>
 </tu>
 <tu>
@@ -31331,6 +31331,26 @@ POT-Creation-Date: 2011-09-13 11:59+030</seg>
     </tuv>
     <tuv lang="BE" changeid="klyok" changedate="20110914T095137Z">
         <seg>Узор падзеі</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">skype_en.po</prop>
+    <prop type="path"></prop>
+    <tuv lang="EN">
+        <seg>Today</seg>
+    </tuv>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T133630Z">
+        <seg>сёньня,</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">skype_en.po</prop>
+    <prop type="path"></prop>
+    <tuv lang="EN">
+        <seg>Yesterday</seg>
+    </tuv>
+    <tuv lang="BE" changeid="klyok" changedate="20110928T133633Z">
+        <seg>учора,</seg>
     </tuv>
 </tu>
 

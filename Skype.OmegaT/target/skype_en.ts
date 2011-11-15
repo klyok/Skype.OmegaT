@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS>
+<TS version="2.0" language="be">
+<defaultcodec>UTF-8</defaultcodec>
     <context>
         <name>API</name>
         <message>
@@ -1443,7 +1444,7 @@ Please use a different image file!</source>
         </message>
         <message>
             <source>%1 (%2) - %3 since %4</source>
-            <translation>%1 (%2) — %3: %4</translation>
+            <translation>%1 (%2) — %3 ад %4</translation>
         </message>
         <message>
             <source>&lt;br&gt;
@@ -1655,7 +1656,7 @@ Please use a different image file!</source>
         </message>
         <message>
             <source>Search the Skype directory for old and new friends. If you know their Skype Name, full name or e-mail address, enter it into the box below.</source>
-            <translation>Шукайце старых альбо знайдзіце новых сяброў у каталёґу Skype. Калі вы ведаеце іхняе ймя ў Skype, поўнае ймя альбо эл. пошту, упішыце іх ніжэй.</translation>
+            <translation>Шукайце старых альбо знайдзіце новых сяброў у даведніку Skype. Калі вы ведаеце іхняе ймя ў Skype, поўнае ймя альбо эл. пошту, упішыце іх ніжэй.</translation>
         </message>
         <message>
             <source>Or add a phone number as a contact</source>
@@ -1683,7 +1684,7 @@ Please use a different image file!</source>
         </message>
         <message>
             <source>Show only SkypeMe!™ contacts</source>
-            <translation>Паказваць толькі кантакты «Пагамонім!!»</translation>
+            <translation>Паказваць толькі людзей у стане «Пагамонім!!»</translation>
         </message>
         <message>
             <source>Search Again</source>
@@ -1705,15 +1706,15 @@ Please use a different image file!</source>
         <name>Dates and Time</name>
         <message>
             <source>Tomorrow</source>
-            <translation>Заўтра</translation>
+            <translation>заўтра</translation>
         </message>
         <message>
             <source>Today</source>
-            <translation>сёньня</translation>
+            <translation>сёньня,</translation>
         </message>
         <message>
             <source>Yesterday</source>
-            <translation>учора</translation>
+            <translation>учора,</translation>
         </message>
     </context>
     <context>
@@ -2264,7 +2265,7 @@ Please use a different image file!</source>
         </message>
         <message>
             <source>Change Default Download Directory...</source>
-            <translation>Зьмяніць звычайны каталёґ спампоўванага…</translation>
+            <translation>Зьмяніць звычайны каталёґ спампаванага…</translation>
         </message>
         <message>
             <source>Choose File(s) to send to %1</source>
